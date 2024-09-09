@@ -80,9 +80,14 @@ OK，接下来我们将手把手教大家如何使用支付宝来获取一张可
 
 ## 使用国内支付宝充值购买Claude Pro帐号操作流程
 
-### 1，打开Claude官网，点击右上角的“Upgrade Plan”。（有图）
+### 1，打开Claude官网，点击右上角的“Upgrade Plan”。
 
-### 2，复制我们在前文从WildCard平台获取的信用卡信息，粘贴到下方对应输入框中，然后点击“Subscribe”按钮即可完成Claude Pro订阅升级。（有图）
+
+![国内充值升级Claude Pro步骤一](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E5%8D%87%E7%BA%A7Claude%20Pro%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
+
+### 2，复制我们在前文从WildCard平台获取的信用卡信息，粘贴到下方对应输入框中，然后点击“Subscribe”按钮即可完成Claude Pro订阅升级。
+
+![国内充值升级Claude Pro步骤二](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E5%8D%87%E7%BA%A7Claude%20Pro%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
 
 小结：截止到目前为止，你已经成功充值开通了Claude Pro帐号，现在可以开始使用Claude Pro的所有高级功能。
 
