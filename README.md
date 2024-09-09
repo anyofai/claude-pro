@@ -54,7 +54,7 @@ OK，接下来我们将手把手教大家如何使用支付宝来获取一张可
 
 ![国内购买开通Claude Pro教程：获取国外手机号步骤二](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E8%B4%AD%E4%B9%B0%E5%BC%80%E9%80%9AClaude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
 
-市面上还有一些比较专业的接码平台，能够成功接收来自Claude、MidJourney、Telegram、TikTok、Facebook、WhatsApp等平台的验证码。这些平台相对更加专业和稳定，接收Claude验证码的成功率也更高。由于篇幅限制，此方案不在此展开，有需要的同学可以扫描文末二维码加好友获取！（注意：加好友时请注明来意！）
+市面上还有一些比较专业的接码平台，能够成功接收来自Claude、MidJourney、Telegram、TikTok、Facebook、WhatsApp等平台的验证码。这些平台相对更加专业和稳定，接收Claude验证码的成功率也更高。由于篇幅限制，此方案不在此展开，有需要的同学可以加我们微信（ 微信号：anyofai ）（注意：加好友时请注明来意！）。
 
 ## 国内注册Claude帐号流程
 
@@ -107,6 +107,4 @@ OK，接下来我们将手把手教大家如何使用支付宝来获取一张可
 
 因此，我们强烈建议大家自行开通一个专属的Claude Pro账号，这样使用起来更安全、也更舒适。
 
-如果你仍然希望寻找可靠的Claude Pro代充值或Claude Pro合租共享服务，可以扫描下方二维码加我们好友（注意：加好友时请注明来意！），获取一些相对较为可靠的服务商。
-
-![火狼说AI](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E7%81%AB%E7%8B%BC%E8%AF%B4AI.jpg)
+如果你仍然希望寻找可靠的Claude Pro代充值或Claude Pro合租共享服务，那么请加我们微信（微信号：anyofai ）（注意：加好友时请注明来意！）。
