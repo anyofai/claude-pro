@@ -44,11 +44,15 @@ OK，接下来我们将手把手教大家如何使用支付宝来获取一张可
 
 值得注意的是，在注册Claude帐号时，必须要验证手机号。然而，由于Claude尚未向中国大陆用户开放，因此国内+86手机号无法用于接收验证短信。所以，我们还需要获取一个有效的国外手机号。目前，获取国外手机号的方式主要有以下两种：
 
-### 方法一：通过WildCard平台获取（有图）
+### 方法一：通过WildCard平台获取
+
+![国内购买开通Claude Pro教程：获取国外手机号步骤一](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E8%B4%AD%E4%B9%B0%E5%BC%80%E9%80%9AClaude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
 
 大家在进入WildCard后台之后，点击左侧导航栏中的“国外手机号”按钮，并按照系统提示申请国外手机号码即可。需要提醒大家的是，通过WildCard平台获取的国外手机号码有效期只有25分钟，因此需尽快使用！ 
 
-### 方法二：通过专业的接码平台获取（有图）
+### 方法二：通过专业的接码平台获取
+
+![国内购买开通Claude Pro教程：获取国外手机号步骤二](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E8%B4%AD%E4%B9%B0%E5%BC%80%E9%80%9AClaude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
 
 市面上还有一些比较专业的接码平台，能够成功接收来自Claude、MidJourney、Telegram、TikTok、Facebook、WhatsApp等平台的验证码。这些平台相对更加专业和稳定，接收Claude验证码的成功率也更高。由于篇幅限制，此方案不在此展开，有需要的同学可以扫描文末二维码加好友获取！（注意：加好友时请注明来意！）
 
