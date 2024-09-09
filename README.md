@@ -109,3 +109,4 @@ OK，接下来我们将手把手教大家如何使用支付宝来获取一张可
 
 如果你仍然希望寻找可靠的Claude Pro代充值或Claude Pro合租共享服务，可以扫描下方二维码加我们好友（注意：加好友时请注明来意！），获取一些相对较为可靠的服务商。
 
+![火狼说AI](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E7%81%AB%E7%8B%BC%E8%AF%B4AI.jpg)
