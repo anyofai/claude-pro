@@ -58,15 +58,23 @@ OK，接下来我们将手把手教大家如何使用支付宝来获取一张可
 
 ## 国内注册Claude帐号流程
 
-### 1，打开Claude官网，点击“Continue with Google”，使用现有的谷歌帐号授权登录；或者在下方输入框中输入你的邮箱地址，并点击“Continue with email”。（有图）
+### 1，打开Claude官网，点击“Continue with Google”，使用现有的谷歌帐号授权登录；或者在下方输入框中输入你的邮箱地址，并点击“Continue with email”。
+
+![国内充值购买Claude Pro教程：注册Claude Pro帐号步骤一](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E6%B3%A8%E5%86%8CClaude%20Pro%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
 
 * Claude官网：https://claude.ai/
 
-### 2，打开你的电子邮箱，找到验证码，将其复制粘贴到下方的输入框中，并点击“Verify Email Address”按钮。（有图）
+### 2，打开你的电子邮箱，找到验证码，将其复制粘贴到下方的输入框中，并点击“Verify Email Address”按钮。
 
-### 3，将我们在前文获取到的国外手机号码复制粘贴到下方的输入框中，并点击“Send Verification Code”按钮。（有图）
+![国内充值购买Claude Pro教程：注册Claude Pro帐号步骤二](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E6%B3%A8%E5%86%8CClaude%20Pro%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
 
-### 4，返回WildCard后台或接码平台，将接收到的验证码复制粘贴到下方的输入框中，并点击“Verify & Create Account”按钮即可完成手机验证。（有图）
+### 3，将我们在前文获取到的国外手机号码复制粘贴到下方的输入框中，并点击“Send Verification Code”按钮。
+
+![国内充值购买Claude Pro教程：注册Claude Pro帐号步骤三](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E6%B3%A8%E5%86%8CClaude%20Pro%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%B8%89.jpg)
+
+### 4，返回WildCard后台或接码平台，将接收到的验证码复制粘贴到下方的输入框中，并点击“Verify & Create Account”按钮即可完成手机验证。
+
+![国内充值购买Claude Pro教程：注册Claude Pro帐号步骤四](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E6%B3%A8%E5%86%8CClaude%20Pro%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4%E5%9B%9B.jpg)
 
 小结：截止到目前为止，你已经成功完成了Claude帐号的注册，接下来可以正式开始购买充值Claude Pro会员了。
 
