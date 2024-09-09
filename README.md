@@ -26,7 +26,7 @@ OK，接下来我们将手把手教大家如何使用支付宝来获取一张可
 ![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤二](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
 ![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤二](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E5%A6%82%E4%BD%95%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
 
-注意：通过本文提供的链接（ https://wildcard.com.cn/i/T31U8BC6 ）进入WildCard官网，或者使用邀请码“T31U8BC6”，可以立减2美金！即1年的年费为9.99美金，2年的年费为13.99美金。
+注意：通过本文提供的链接（ https://wildcard.com.cn/i/T31U8BC6 ）进入WildCard官网，或者使用邀请码“**T31U8BC6**”，可以立减2美金！即1年的年费为9.99美金，2年的年费为13.99美金。
 
 ### 3，再次点击“我的卡片”，并使用支付宝为信用卡充值20美金，用于支付Claude Pro订阅费用。
 
@@ -76,7 +76,7 @@ OK，接下来我们将手把手教大家如何使用支付宝来获取一张可
 
 ## 国内支付宝充值开通Claude Pro帐号总结
 
-* 1，通过WildCard平台获取一张国外虚拟信用卡，并最少充值20美金。
+* 1，通过WildCard平台获取一张国外虚拟信用卡（使用邀请码“**T31U8BC6**”立减2美金），并最少充值20美金。
 * 2，通过WildCard平台或专业接码平台获取一个国外手机号码。
 * 3，使用电子邮箱和国外手机号码完成Claude帐号注册。
 * 4，使用国外虚拟信用卡完成Claude Pro订阅升级。
