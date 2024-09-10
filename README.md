@@ -38,7 +38,7 @@ OK，接下来我们将手把手教大家如何使用支付宝来获取一张可
 
 ![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤四](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E5%9B%9B.jpg)
 
-小结：截止到目前为止，我们已经成功获取了一张国外虚拟信用卡！如果你在这一步遇到问题，请参考“2024年国内使用支付宝开通ChatGPT Plus教程”一文，该文中有更详细的操作步骤。
+小结：截止到目前为止，我们已经成功获取了一张国外虚拟信用卡！如果你在这一步遇到问题，请参考“<a href=https://github.com/anyofai/chatgpt-plus>2024年国内使用支付宝开通ChatGPT Plus教程</a>”一文，该文中有更详细的操作步骤。
 
 ## 如何获取国外手机号码？
 
