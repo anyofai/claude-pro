@@ -27,10 +27,10 @@ OK，接下来我们将手把手教大家如何使用支付宝来获取一张可
 
 ### 2，进入后台并点击左侧导航中栏的“我的卡片”，然后按系统提示支付信用卡的开卡费和年费。
 
+注意：通过本文提供的链接（ https://bewildcard.com/i/ANYOFAI ）进入WildCard官网，或者使用邀请码“**ANYOFAI**”，可以立减1美金！即2年的年费为10.99美金，3年的年费为15.99美金。
+
 ![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤二](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
 ![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤二](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E5%A6%82%E4%BD%95%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%BA%8C.png)
-
-注意：通过本文提供的链接（ https://bewildcard.com/i/ANYOFAI ）进入WildCard官网，或者使用邀请码“**ANYOFAI**”，可以立减1美金！即2年的年费为10.99美金，3年的年费为15.99美金。
 
 ### 3，再次点击“我的卡片”，并使用支付宝为信用卡充值20美金，用于支付Claude Pro订阅费用。
 
