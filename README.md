@@ -21,9 +21,9 @@ OK，接下来我们将手把手教大家如何使用支付宝来获取一张可
 
 ### 1，访问WildCard官网，并使用+86手机号完成WildCard账号注册。
 
-![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤一](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
-
 * WildCard官网地址：https://bewildcard.com/i/ANYOFAI
+
+![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤一](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
 
 ### 2，进入后台并点击左侧导航中栏的“我的卡片”，然后按系统提示支付信用卡的开卡费和年费。
 
