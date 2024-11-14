@@ -1,6 +1,6 @@
 # 国内开通购买Claude Pro帐号教程：如何使用支付宝充值订阅Claude Pro会员？
 
-<p align="center">最近更新于：2024年10月22日</p>
+<p align="center">最近更新于：2024年11月14日</p>
 
 ![国内开通购买Claude Pro帐号教程：如何使用支付宝充值订阅Claude Pro会员](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
