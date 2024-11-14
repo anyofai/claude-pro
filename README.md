@@ -66,7 +66,7 @@ OK，接下来我们将手把手教大家如何使用支付宝来获取一张可
 
 ![国内充值购买Claude Pro教程：注册Claude Pro帐号步骤一](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E6%B3%A8%E5%86%8CClaude%20Pro%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
 
-* Claude官网：https://claude.ai/
+* Claude官网：claude.ai
 
 ### 2，打开你的电子邮箱，找到验证码，将其复制粘贴到下方的输入框中，并点击“Verify Email Address”按钮。
 
