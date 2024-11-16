@@ -123,4 +123,6 @@ OK，接下来我们将手把手教大家如何使用支付宝来获取一张可
 
 * <a href=https://github.com/anyofai/chatgpt-plus-recharge>支付宝充值ChatGPT Plus教程</a>：如何使用支付宝为ChatGPT Plus充值？目前，中国用户为ChatGPT-4充值的主要方式包括使用虚拟信用卡和Apple礼品卡。我们还将为大家推荐一些可靠的ChatGPT Plus代充值平台，帮助用户找到最适合自己的充值方式。
 
+* <a href="https://github.com/anyofai/poe">国内充值购买Poe帐号教程</a>：本文将手把手地教大家如何快速获取一张WildCard虚拟信用卡，并使用该卡为Poe充值。而且，本Poe订阅教程经过亲测，真实有效且安全可靠，整个Poe购买流程最快仅需十五分钟即可完成。
+
 * <a href=https://github.com/anyofai/chatgpt>国内ChatGPT注册教程</a>：本文将手把手教你如何在中国大陆完成ChatGPT帐号注册和ChatGPT Plus会员升级。整个过程简单明了，而且无需手机验证，只需五分钟即可完成所有操作。
