@@ -109,13 +109,17 @@ OK，截止到目前为止，我们已经成功获取了一张WildCard虚拟信�
 
 当你成功开通WildCard虚拟信用卡（即支付完年费）之后，点击左侧导航栏中的“国外手机号”按钮，并按照系统提示申请国外手机号码即可。需要提醒大家的是，通过WildCard平台获取的国外手机号码有效期只有25分钟，因此需尽快使用！此外，在使用WildCard平台提供的国外手机号码注册Claude帐号的过程中，无论遇到什么问题，都可以第一时间联系其官方客服寻求帮助。 
 
+* WildCard官网地址：<a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a>
+
 ![Claude Pro订阅 - Claude号码怎么解决 - 获取国外手机号码方法一：通过WildCard平台获取](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E8%B4%AD%E4%B9%B0%E5%BC%80%E9%80%9AClaude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
 
-### 方法二：通过专业的接码平台获取
+### 方法二：通过Sms-activate平台获取
+
+* Sms-activate官网地址：<a href="https://sms-activate.guru/?ref=3917403">https://sms-activate.guru/?ref=3917403</a>
+
+Sms-activate是海外一家非常专业的接码平台，能够成功接收来自Claude、MidJourney、Telegram、TikTok、Facebook、WhatsApp等平台的验证码。Sms-activate平台提供的国外手机号码非常便宜，平均每个手机号码仅需几十卢布（人民币大约2-3元），而且支持支付宝付款，使用起来还是非常方便的。
 
 ![Claude Pro购买- Claude号码怎么解决 - - 获取国外手机号码方法二：通过专业的接码平台获取](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E8%B4%AD%E4%B9%B0%E5%BC%80%E9%80%9AClaude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
-
-市面上还有一些比较专业的接码平台，能够成功接收来自Claude、MidJourney、Telegram、TikTok、Facebook、WhatsApp等平台的验证码。这些平台相对更加专业和稳定，接收Claude验证码的成功率也更高。由于篇幅限制，此方案不在此展开，有需要的同学可以加我们微信（ 微信号：anyofai ）（注意：加好友时请注明来意！）。
 
 ## 如何注册Claude帐号？ 
 
