@@ -128,7 +128,7 @@ OK，截止到目前为止，我们已经成功获取了一张WildCard虚拟信�
 
 OK，当你完成以上所有步骤后，Claude账号就注册成功了。现在，你可以正式开始体验Claude提供的强大服务，包括智能对话、长文本处理等功能。如果你希望解锁更多高级功能，例如通过Claude Sonnet 3.5模型获得更高的上下文处理能力和更快的响应速度，请继续按照下方的操作步骤完成Claude Pro订阅流程。这样，你便能全面享受Claude Pro带来的卓越体验！
 
-## 国内订阅Claude Pro（Claude Sonnet 3.5）流程：Claude订阅Pro地址是多少？
+## 国内订阅Claude Pro/Sonnet流程：Claude订阅Pro地址是多少？
 
 当完成以上所有准备工作后，接下来我们将正式进入今天的重点：Claude Pro订阅。事实上，订阅Claude Sonnet 3.5并没有想象中那么复杂，只需按照几个简单的步骤操作，就能轻松完成整个订阅过程！现在，让我们一步步带你完成Claude Pro开通吧！
 
