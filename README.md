@@ -76,7 +76,7 @@ Claude Pro是基于最新的Claude Sonnet 3.5模型，具备更高的性能和�
 
 * WildCard官网地址：<a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a>
 
-![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤一](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
+![Claude Pro订阅 - Claude能用国内信用卡吗 - 获取WildCard虚拟信用卡第一步：访问WildCard官网，并使用+86手机号完成WildCard账号注册](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
 
 ### 2，进入后台并点击左侧导航中栏的“我的卡片”，然后按系统提示支付信用卡的开卡费和年费。
 
@@ -84,18 +84,18 @@ Claude Pro是基于最新的Claude Sonnet 3.5模型，具备更高的性能和�
 
 通过本文提供的链接（ <a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a> ）进入WildCard官网，或者使用邀请码“**ANYOFAI**”，可以立减1美金！即2年的年费为10.99美金，3年的年费为15.99美金。
 
-![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤二](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
-![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤二](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E5%A6%82%E4%BD%95%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%BA%8C.png)
+![Claude Pro购买 - Claude能用国内信用卡吗 - 获取WildCard虚拟信用卡第二步：进入后台并点击左侧导航中栏的“我的卡片”](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
+![Claude Pro开通 - Claude能用国内银行卡吗 - 获取WildCard虚拟信用卡第二步：按系统提示支付信用卡的开卡费和年费](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E5%A6%82%E4%BD%95%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%BA%8C.png)
 
 ### 3，再次点击“我的卡片”，并使用支付宝为信用卡充值20美金，用于支付Claude Pro订阅费用。
 
 注意：由于Claude Pro的订阅费用为每月20美元，因此充值金额必须大于等于20美元。
 
-![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤三](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%B8%89.jpg)
+![Claude Pro充值 - Claude能用国内银行卡吗 - 获取WildCard虚拟信用卡第四步：再次点击“我的卡片”，并使用支付宝为信用卡充值20美金，用于支付Claude Pro订阅费用](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%B8%89.jpg)
 
 ### 4，复制并保存用于充值购买Claude Pro帐号所需的信用卡信息。
 
-![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤四](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E5%9B%9B.jpg)
+![Claude国内购买 - Claude能用国内银行卡吗 - 获取WildCard虚拟信用卡第五步：复制并保存用于充值购买Claude Pro帐号所需的信用卡信息](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E5%9B%9B.jpg)
 
 OK，截止到目前为止，我们已经成功获取了一张WildCard虚拟信用卡！但由于篇幅限制，本文未对WildCard虚拟信用卡的获取步骤进行完整展开。如果你在操作过程中遇到问题，可以参考我们的《<a href="https://github.com/anyofai/anyofai.github.io">国内开通ChatGPT Plus会员</a>》一文，其中详细介绍了每一步的操作方法。
 
@@ -109,11 +109,11 @@ OK，截止到目前为止，我们已经成功获取了一张WildCard虚拟信�
 
 大家在进入WildCard后台之后，点击左侧导航栏中的“国外手机号”按钮，并按照系统提示申请国外手机号码即可。需要提醒大家的是，通过WildCard平台获取的国外手机号码有效期只有25分钟，因此需尽快使用！ 
 
-![国内购买开通Claude Pro教程：获取国外手机号步骤一](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E8%B4%AD%E4%B9%B0%E5%BC%80%E9%80%9AClaude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
+![Claude Pro订阅 - Claude号码怎么解决 - 获取国外手机号码方法一：通过WildCard平台获取](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E8%B4%AD%E4%B9%B0%E5%BC%80%E9%80%9AClaude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
 
 ### 方法二：通过专业的接码平台获取
 
-![国内购买开通Claude Pro教程：获取国外手机号步骤二](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E8%B4%AD%E4%B9%B0%E5%BC%80%E9%80%9AClaude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
+![Claude Pro购买- Claude号码怎么解决 - - 获取国外手机号码方法二：通过专业的接码平台获取](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E8%B4%AD%E4%B9%B0%E5%BC%80%E9%80%9AClaude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
 
 市面上还有一些比较专业的接码平台，能够成功接收来自Claude、MidJourney、Telegram、TikTok、Facebook、WhatsApp等平台的验证码。这些平台相对更加专业和稳定，接收Claude验证码的成功率也更高。由于篇幅限制，此方案不在此展开，有需要的同学可以加我们微信（ 微信号：anyofai ）（注意：加好友时请注明来意！）。
 
@@ -127,25 +127,25 @@ OK，截止到目前为止，我们已经成功获取了一张WildCard虚拟信�
 
 注意：你也可以使用现有的Google账号授权登录，直接点击“Continue with Google”即可。
 
-![国内充值购买Claude Pro教程：注册Claude Pro帐号步骤一](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E6%B3%A8%E5%86%8CClaude%20Pro%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
+![Claude Pro订阅 - 注册Claude帐号第一步：打开Claude官网，输入你的Gmail邮箱并点击“Continue with email”](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E6%B3%A8%E5%86%8CClaude%20Pro%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
 
 ### 第二步：输入邮箱验证码并点击“Verify Email Address”。
 
 打开你的电子邮箱，找到一封来自Anthropic的邮件，复制其中的验证码，将其粘贴到下方的输入框中，然后点击“Verify Email Address”按钮。
 
-![国内充值购买Claude Pro教程：注册Claude Pro帐号步骤二](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E6%B3%A8%E5%86%8CClaude%20Pro%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
+![Claude Pro购买 - 注册Claude帐号第二步：输入邮箱验证码并点击“Verify Email Address”](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E6%B3%A8%E5%86%8CClaude%20Pro%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
 
 ### 第三步：输入国外手机号码并点击“Send Verification Code”。
 
 我们在前文中已经成功地获取到了一个国外手机号码，你只需将其粘贴到下方的输入框中，然后点击“Send Verification Code”按钮。
 
-![国内充值购买Claude Pro教程：注册Claude Pro帐号步骤三](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E6%B3%A8%E5%86%8CClaude%20Pro%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%B8%89.jpg)
+![Claude国内购买 - 注册Claude帐号第三步：输入国外手机号码并点击“Send Verification Code”](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E6%B3%A8%E5%86%8CClaude%20Pro%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%B8%89.jpg)
 
 ### 第四步：获取手机验证码并点击“Verify & Create Account”。
 
 返回WildCard后台或接码平台，复制接收到的验证码，粘贴到下方的输入框中，点击“Verify & Create Account”按钮，即可完成手机验证。
 
-![国内充值购买Claude Pro教程：注册Claude Pro帐号步骤四](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E6%B3%A8%E5%86%8CClaude%20Pro%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4%E5%9B%9B.jpg)
+![Claude Pro开通 - 注册Claude帐号第四步：获取手机验证码并点击“Verify & Create Account”](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E6%B3%A8%E5%86%8CClaude%20Pro%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4%E5%9B%9B.jpg)
 
 OK，当你完成以上所有步骤后，Claude账号就注册成功了。现在，你可以正式开始体验Claude提供的强大服务，包括智能对话、长文本处理等功能。如果你希望解锁更多高级功能，例如通过Claude Sonnet 3.5模型获得更高的上下文处理能力和更快的响应速度，请继续按照下方的操作步骤完成Claude Pro订阅流程。这样，你便能全面享受Claude Pro带来的卓越体验！
 
@@ -157,11 +157,11 @@ OK，当你完成以上所有步骤后，Claude账号就注册成功了。现在
 
 * **Claude订阅地址**：claude.ai
 
-![国内充值升级Claude Pro步骤一](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E5%8D%87%E7%BA%A7Claude%20Pro%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
+![Claude订阅Pro地址是多少，Claude Sonnet订阅流程，Claude Pro订阅第一步：打开Claude官网，点击右上角的“Upgrade Plan”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E5%8D%87%E7%BA%A7Claude%20Pro%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
 
 ### 第二步：将从WildCard平台获取的信用卡信息复制并粘贴到下方对应的输入框中，点击“Subscribe”按钮后，即可完成Claude Pro订阅升级。
 
-![国内充值升级Claude Pro步骤二](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E5%8D%87%E7%BA%A7Claude%20Pro%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
+![Claude订阅地址是哪个，Claude Sonnet订阅流程，Claude Pro订阅第二步：将从WildCard平台获取的信用卡信息复制并粘贴到下方对应的输入框中，点击“Subscribe”按钮后，即可完成Claude Pro订阅升级](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E5%8D%87%E7%BA%A7Claude%20Pro%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
 
 OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Claude Sonnet 3.5的强大功能。现在，你可以尽情体验其卓越的上下文处理能力和出色的文本生成效果。无论是日常对话、文档分析，还是复杂任务处理，Claude都将为你提供最佳支持。
 
