@@ -37,7 +37,7 @@ OK，接下来你只需按照我们的操作步骤一步一步的来执行，就
 <h3 id="12-claude如何删除历史记录">12. <a href="#claude如何删除历史记录">Claude如何删除历史记录？</a></h3>
 <h3 id="13-claude封号严重吗claude封号了怎么办">13. <a href="#claude封号严重吗claude封号了怎么办">Claude封号严重吗？Claude封号了怎么办？</a></h3>
 <h3 id="14-claude-pro订阅总结国内如何购买claude-pro帐号">14. <a href="#claude-pro订阅总结国内如何购买claude-pro帐号">Claude Pro订阅总结：国内如何购买Claude Pro帐号？</a></h3>
-<h3 id="15-国内购买claude-pro帐号相关的其他文章">15. <a href="#国内购买claude-pro帐号相关的其他文章国内购买Claude Pro帐号相关的其他文章</a></h3>
+<h3 id="15-国内购买claude-pro帐号相关的其他文章">15. <a href="#国内购买claude-pro帐号相关的其他文章">国内购买Claude Pro帐号相关的其他文章</a></h3>
 </blockquote>
 
 ## Claude是什么？Claude有次数限制？Claude Pro是什么？Claude Pro怎么样？
