@@ -74,7 +74,7 @@ Claude Pro是基于最新的Claude Sonnet 3.5模型，具备更高的性能和�
 
 ### 1，访问WildCard官网，并使用+86手机号完成WildCard账号注册。
 
-* WildCard官网地址：https://bewildcard.com/i/ANYOFAI
+* WildCard官网地址：<a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a>
 
 ![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤一](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
 
@@ -82,16 +82,16 @@ Claude Pro是基于最新的Claude Sonnet 3.5模型，具备更高的性能和�
 
 注意：市面上所有虚拟信用卡都需要收取年费，WildCard也不例外。毕竟人家提供了服务，多少都要给点辛苦费，这个也是可以理解的。当然，除了年费之外，WildCard没有其他费用，也**没有月租**。
 
-通过本文提供的链接（ https://bewildcard.com/i/ANYOFAI ）进入WildCard官网，或者使用邀请码“**ANYOFAI**”，可以立减1美金！即2年的年费为10.99美金，3年的年费为15.99美金。
+通过本文提供的链接（ <a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a> ）进入WildCard官网，或者使用邀请码“**ANYOFAI**”，可以立减1美金！即2年的年费为10.99美金，3年的年费为15.99美金。
 
 ![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤二](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
 ![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤二](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E5%A6%82%E4%BD%95%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%BA%8C.png)
 
 ### 3，再次点击“我的卡片”，并使用支付宝为信用卡充值20美金，用于支付Claude Pro订阅费用。
 
-![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤三](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%B8%89.jpg)
-
 注意：由于Claude Pro的订阅费用为每月20美元，因此充值金额必须大于等于20美元。
+
+![国内升级订阅Claude Pro教程：获取国外虚拟信用卡步骤三](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E4%B8%89.jpg)
 
 ### 4，复制并保存用于充值购买Claude Pro帐号所需的信用卡信息。
 
@@ -107,9 +107,9 @@ OK，截止到目前为止，我们已经成功获取了一张WildCard虚拟信�
 
 ### 方法一：通过WildCard平台获取
 
-![国内购买开通Claude Pro教程：获取国外手机号步骤一](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E8%B4%AD%E4%B9%B0%E5%BC%80%E9%80%9AClaude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
-
 大家在进入WildCard后台之后，点击左侧导航栏中的“国外手机号”按钮，并按照系统提示申请国外手机号码即可。需要提醒大家的是，通过WildCard平台获取的国外手机号码有效期只有25分钟，因此需尽快使用！ 
+
+![国内购买开通Claude Pro教程：获取国外手机号步骤一](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E8%B4%AD%E4%B9%B0%E5%BC%80%E9%80%9AClaude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
 
 ### 方法二：通过专业的接码平台获取
 
