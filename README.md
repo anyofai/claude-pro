@@ -121,6 +121,8 @@ Sms-activate是海外一家非常专业的接码平台，能够成功接收来�
 
 ![Claude Pro购买- Claude号码怎么解决 - - 获取国外手机号码方法二：通过Sms-activate接码平台获取](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Sms-activate%E5%AE%98%E7%BD%91.png)
 
+注意：Sms-activate平台上的手机号码非常便宜，大家在充值的时候，每次不要充的太多，1-2美金就足够了。
+
 ## 如何注册Claude帐号？ 
 
 我们在前文中已经提醒过，注册Claude账号前需要准备一个安全可靠的科学上网工具、一个Gmail邮箱，以及一个国外手机号码。现在，当你准备好这三样东西后，就可以正式开始注册Claude账号了！
