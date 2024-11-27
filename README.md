@@ -161,7 +161,7 @@ OK，当你完成以上所有步骤后，Claude账号就注册成功了。现在
 
 * **Claude订阅地址**：claude.ai
 
-![Claude订阅Pro地址是多少，Claude Sonnet订阅流程，Claude Pro订阅第一步：打开Claude官网，点击右上角的“Upgrade Plan”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E5%8D%87%E7%BA%A7Claude%20Pro%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
+![Claude订阅Pro地址是多少，Claude Sonnet订阅流程，Claude Pro订阅第一步：打开Claude官网，点击右上角的“Upgrade Plan”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%89%93%E5%BC%80Claude%E5%AE%98%E7%BD%91%E5%B9%B6%E7%82%B9%E5%87%BBUpgrade%20Plan.jpg)
 
 ### 第二步：将从WildCard平台获取的信用卡信息复制并粘贴到下方对应的输入框中，点击“Subscribe”按钮后，即可完成Claude Pro订阅升级。
 
