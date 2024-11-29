@@ -113,7 +113,9 @@ Sms-activate平台的操作流程如下：打开官网 > 将网站语言切换�
 
 需要特别注意的是，如果购买的号码未成功接收到验证码，Sms-activate会自动退还支付金额，无需担心资金损失。此外，该平台以俄罗斯卢布计价，但中国用户充值时会按照美元进行结算。由于手机号码价格低廉，建议每次充值1-2美元（约合100多卢布），即可满足使用需求。
 
-![Claude Pro购买- Claude号码怎么解决 - - 获取国外手机号码方法二：通过Sms-activate接码平台获取](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Sms-activate%E5%AE%98%E7%BD%91.png)
+![Claude Pro购买- Claude号码怎么解决 - 获取国外手机号码方法二：通过Sms-activate接码平台获取](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Sms-activate%E5%AE%98%E7%BD%91-1.jpg)
+
+![Claude Pro购买- Claude号码怎么解决 - 获取国外手机号码方法二：通过Sms-activate接码平台获取](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Sms-activate%E5%AE%98%E7%BD%91.png)
 
 总得来说，如果想要解决Claude号码问题，我们比较推荐大家通过WildCard平台获取一个国外手机号。该平台提供24小时在线客服，大家在获取国外手机号或者使用国外手机号注册Claude帐号时，遇到问题可以随时找其在线客服帮忙解决。但需要提醒大家注意的是，该平台需要先支付年费激活虚拟信用卡，然后才可以使用其“海外手机号”功能。当然，Sms-activate平台也可以用于完成Claude手机验证，而且该平台价格低廉，支持支付宝付款，但客服回复速度相对较慢一些。
 
