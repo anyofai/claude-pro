@@ -111,9 +111,9 @@ Sms-activate是一家来自俄罗斯的专业接码平台，支持接收包括Cl
 
 Sms-activate平台的操作流程如下：打开官网 > 将网站语言切换为“中国”（如图所示） > 点击右上角的“注册”按钮并完成账号注册 > 点击右上角个人ID下方的“余额”选项（如图所示） > 选择支付宝作为支付方式并完成充值（如图所示） > 在左侧导航栏中搜索“Claude” > 选择一个符合要求的国家手机号并完成购买 > 查看已购买的手机号（或点击导航栏中的“激活”来查看已购买的手机号）。
 
-需要特别注意的是，如果购买的号码未成功接收到验证码，Sms-activate会自动退还支付金额，无需担心资金损失。此外，该平台以俄罗斯卢布计价，但中国用户充值时会按照美元进行结算。由于手机号码价格低廉，建议每次充值1-2美元（约合100多卢布），即可满足使用需求。
-
 ![Claude Pro购买- Claude号码怎么解决 - 获取国外手机号码方法二：通过Sms-activate接码平台获取](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Sms-activate%E5%AE%98%E7%BD%91-1.jpg)
+
+需要特别注意的是，如果购买的号码未成功接收到验证码，Sms-activate会自动退还支付金额，无需担心资金损失。此外，该平台以俄罗斯卢布计价，但中国用户充值时会按照美元进行结算。由于手机号码价格低廉，建议每次充值1-2美元（约合100多卢布），即可满足使用需求。
 
 ![Claude Pro购买- Claude号码怎么解决 - 获取国外手机号码方法二：通过Sms-activate接码平台获取](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Sms-activate%E5%AE%98%E7%BD%91.png)
 
