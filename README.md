@@ -23,11 +23,11 @@ OK，接下来你只需按照我们的操作步骤一步一步的来执行，就
 
 <blockquote>
 <h2 id="本文（重点）内容快速导航">本文（重点）内容快速导航</h2>
-<h3 id="4-如何快速获取一张国外虚拟信用卡claude能用国内信用卡银行卡支付吗">4. <a href="#如何快速获取一张国外虚拟信用卡claude能用国内信用卡银行卡支付吗">如何快速获取一张WildCard虚拟信用卡？</a></h3>
-<h3 id="5-如何获取国外手机号码claude号码怎么解决">5. <a href="#如何获取国外手机号码claude号码怎么解决">如何快速获取一个国外手机号码？</a></h3>
-<h3 id="6-如何注册claude帐号">6. <a href="#如何注册claude帐号">Claude注册流程：如何注册Claude帐号？</a></h3>
-<h3 id="7-国内订阅claude-prosonnet流程claude订阅pro地址是多少">7. <a href="#国内订阅claude-prosonnet流程claude订阅pro地址是多少">国内开通Claude Pro流程：如何订阅Claude Pro会员？</a></h3>
-<h3 id="8-claude国内购买流程如何购买claude-pro帐号">8. <a href="#claude国内购买流程如何购买claude-pro帐号">Claude国内购买流程：如何购买Claude Pro(现成)帐号？</a></h3>
+<h3 id="1-如何快速获取一张国外虚拟信用卡claude能用国内信用卡银行卡支付吗">1. <a href="#如何快速获取一张国外虚拟信用卡claude能用国内信用卡银行卡支付吗">如何快速获取一张WildCard虚拟信用卡？</a></h3>
+<h3 id="2-如何获取国外手机号码claude号码怎么解决">2. <a href="#如何获取国外手机号码claude号码怎么解决">如何快速获取一个国外手机号码？</a></h3>
+<h3 id="3-如何注册claude帐号">3. <a href="#如何注册claude帐号">Claude注册流程：如何注册Claude帐号？</a></h3>
+<h3 id="4-国内订阅claude-prosonnet流程claude订阅pro地址是多少">4. <a href="#国内订阅claude-prosonnet流程claude订阅pro地址是多少">国内开通Claude Pro流程：如何订阅Claude Pro会员？</a></h3>
+<h3 id="5-claude国内购买流程如何购买claude-pro帐号">5. <a href="#claude国内购买流程如何购买claude-pro帐号">Claude国内购买流程：如何购买Claude Pro(现成)帐号？</a></h3>
 </blockquote>
 
 ## Claude是什么？Claude有次数限制？Claude Pro是什么？Claude Pro怎么样？
