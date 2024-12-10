@@ -277,4 +277,6 @@ Claude封号的主要原因包括：
 
 * <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：本文将手把手教你如何在中国大陆完成ChatGPT帐号注册和ChatGPT Plus会员升级。整个过程简单明了，而且无需手机验证，只需五分钟即可完成所有操作。
 
+* <a href="https://github.com/anyofai/sora">如何使用Sora</a>：Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
+
 * <a href="https://anyofai.github.io/">最佳AI工具推荐</a>：ChatGPT是市场上最强大的AI工具之一，能够轻松应对从日常对话到复杂问题解答，以及内容生成等任务。同时，市面上还有许多优秀的AI工具，它们在文本生成、图像处理和视频创作等领域表现出色，可以补充ChatGPT的功能，进一步提升工作效率。
