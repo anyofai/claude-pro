@@ -87,7 +87,7 @@ Claude Pro是基于最新的Claude Sonnet 3.5模型，具备更高的性能和�
 
 ![Claude国内购买 - Claude能用国内银行卡吗 - 获取WildCard虚拟信用卡第五步：复制并保存用于充值购买Claude Pro帐号所需的信用卡信息](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%AD%A5%E9%AA%A4%E5%9B%9B.jpg)
 
-OK，截止到目前为止，我们已经成功获取了一张WildCard虚拟信用卡！但由于篇幅限制，本文未对WildCard虚拟信用卡的获取步骤进行完整展开。如果你在操作过程中遇到问题，可以参考我们的《<a href="https://github.com/anyofai/anyofai.github.io">国内开通ChatGPT Plus会员</a>》一文，其中详细介绍了每一步的操作方法。
+OK，截止到目前为止，我们已经成功获取了一张WildCard虚拟信用卡！但由于篇幅限制，本文未对WildCard虚拟信用卡的获取步骤进行完整展开。如果你在操作过程中遇到问题，可以参考我们的《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>》一文，其中详细介绍了每一步的操作方法。
 
 此外，无论是在获取WildCard虚拟信用卡的过程中，还是在后续使用时，若你遇到问题，都可以随时联系WildCard的在线客服。他们将为你提供及时且有效的解决方案，确保问题得到妥善处理。
 
