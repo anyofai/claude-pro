@@ -251,7 +251,7 @@ Claude封号的主要原因包括：
 
 ## Claude Pro订阅总结：国内如何购买Claude Pro帐号？
 
-跟ChatGPT一样，Claude也是最近这两年最火爆的AI工具之一，尤其在处理复杂指令、理解上下文以及生成自然流畅的文本方面，Claude的表现甚至在某些场景下优于ChatGPT。然而，与<a href="https://github.com/anyofai/anyofai.github.io">开通ChatGPT Plus</a>相比，充值开通Claude Pro会员的操作流程略显复杂。但只要你严格按照本文提供的操作步骤一步步执行，同样可以顺利完成Claude Pro的订阅，体验其强大的功能。也就是说，国内充值购买Claude Pro的流程虽然看起来较为复杂，但概括起来其实只需要以下五个步骤：
+跟ChatGPT一样，Claude也是最近这两年最火爆的AI工具之一，尤其在处理复杂指令、理解上下文以及生成自然流畅的文本方面，Claude的表现甚至在某些场景下优于ChatGPT。然而，与<a href="https://github.com/anyofai/anyofai.github.io">充值GPT Plus</a>相比，充值开通Claude Pro会员的操作流程略显复杂。但只要你严格按照本文提供的操作步骤一步步执行，同样可以顺利完成Claude Pro的订阅，体验其强大的功能。也就是说，国内充值购买Claude Pro的流程虽然看起来较为复杂，但概括起来其实只需要以下五个步骤：
 
 * 1，注册一个海外Gmail邮箱，或者通过第三方平台购买一个现成的Gmail邮箱。
 * 2，通过WildCard平台或<a href="https://sms-activate.guru/?ref=3917403">Sms-activate平台</a>获取一个国外手机号码。
