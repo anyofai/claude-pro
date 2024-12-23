@@ -171,13 +171,13 @@ OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Cl
 
 在国内注册Claude账号的确较为麻烦，不仅需要准备Gmail邮箱和国外手机号，在订阅Claude Pro时还必须使用虚拟信用卡。整个流程操作下来步骤较为繁琐，对部分用户而言可能存在一定难度。因此，不少用户希望直接购买现成的Claude Pro账号，以跳过这些复杂的操作步骤。
 
-虽然我们不建议直接购买Claude Pro账号，但从隐私和安全的角度来看，购买的账号始终不如自己注册的账号更加安全可控。然而，如果你因特殊原因需要购买Claude Pro账号，我们为大家推荐一个相对靠谱的购买平台：<a href="https://www.naifeistation.com?invite=3235">星际放映厅</a>。
+虽然我们不建议直接购买Claude Pro账号，但从隐私和安全的角度来看，购买的账号始终不如自己注册的账号更加安全可控。然而，如果你因特殊原因需要购买Claude Pro账号，我们为大家推荐一个相对靠谱的购买平台：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>。
 
 星际放映厅是一家专业的影视媒体和AI工具合租平台，提供多种优质服务，并已在政府部门完成备案（备案号：浙ICP备2023017856号），其安全性和可靠性均有保障。选择星际放映厅，无需担心只收钱不办事，更不用担心拿钱跑路的问题。
 
 ### 第一步：打开星际放映厅官网，并使用手机号完成登录。
 
-* 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3235">https://www.naifeistation.com?invite=3235</a>
+* 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3wLPME">https://www.naifeistation.com?invite=3wLPME</a>
 
 ![Claude国内购买第一步：打开星际放映厅官网，并使用手机号完成登录](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-1.png)
 
@@ -191,7 +191,7 @@ OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Cl
 
 ![Claude国内购买第三步：选择所需“时长”，输入优惠码“ANYOFAI”，然后按照流程完成支付](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-3.png)
 
-最后，我们需要提醒大家，如果你还没有Claude账号，那么在完成付款后，星际放映厅会为你提供一个已经订阅好的Claude Pro账号；如果你已有Claude账号，则需要联系在线客服，将你的Claude账号共享给星际放映厅，由他们帮你完成Claude Pro的充值操作。当Claude Pro充值完成后，你即可直接开始使用。立即购买Claude Pro帐号：<a href="https://www.naifeistation.com?invite=3235">星际放映厅</a>。
+最后，我们需要提醒大家，如果你还没有Claude账号，那么在完成付款后，星际放映厅会为你提供一个已经订阅好的Claude Pro账号；如果你已有Claude账号，则需要联系在线客服，将你的Claude账号共享给星际放映厅，由他们帮你完成Claude Pro的充值操作。当Claude Pro充值完成后，你即可直接开始使用。立即购买Claude Pro帐号：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>。
 
 ## Claude Pro合租共享帐号值得尝试吗？
 
