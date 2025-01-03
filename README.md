@@ -1,6 +1,6 @@
 # 最新Claude Pro订阅教程：国内如何访问Claude？如何注册Claude？如何购买Claude Pro会员帐号？Claude能用国内信用卡/银行卡吗？
 
-<p align="center">最近更新于：2024年12月22日</p>
+<p align="center">最近更新于：2025年1月3日</p>
 
 ![最新Claude Pro订阅教程：国内如何访问Claude？如何注册Claude？如何购买Claude Pro会员帐号？Claude能用国内信用卡/银行卡吗？](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
