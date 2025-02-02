@@ -23,7 +23,7 @@ OK，接下来你只需按照我们的操作步骤一步一步的来执行，就
 
 <blockquote>
 <h2 id="本文（重点）内容快速导航">本文（重点）内容快速导航</h2>
-<h3 id="1-如何快速获取一张国外虚拟信用卡claude能用国内信用卡银行卡支付吗">1. <a href="#如何快速获取一张国外虚拟信用卡claude能用国内信用卡银行卡支付吗">如何快速获取一张WildCard虚拟信用卡？</a></h3>
+<h3 id="1-如何快速获取一张国外虚拟信用卡claude能用国内信用卡银行卡支付吗">1. <a href="#如何快速获取一张国外虚拟信用卡claude能用国内信用卡银行卡支付吗">如何快速获取一张“野卡YEKA虚拟信用卡”？</a></h3>
 <h3 id="2-如何获取国外手机号码claude号码怎么解决">2. <a href="#如何获取国外手机号码claude号码怎么解决">如何快速获取一个国外手机号码？</a></h3>
 <h3 id="3-如何注册claude帐号">3. <a href="#如何注册claude帐号">Claude注册流程：如何注册Claude帐号？</a></h3>
 <h3 id="4-国内订阅claude-prosonnet流程claude订阅pro地址是多少">4. <a href="#国内订阅claude-prosonnet流程claude订阅pro地址是多少">国内开通Claude Pro流程：如何订阅Claude Pro会员？</a></h3>
