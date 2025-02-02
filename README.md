@@ -166,13 +166,13 @@ OK，当你完成以上所有步骤后，Claude账号就注册成功了。现在
 
 当完成以上所有准备工作后，接下来我们将正式进入今天的重点：Claude Pro订阅。事实上，订阅Claude Sonnet 3.5并没有想象中那么复杂，只需按照几个简单的步骤操作，就能轻松完成整个订阅过程！现在，让我们一步步带你完成Claude Pro开通吧！
 
-### 第一步：打开Claude官网，点击“Upgrade”按钮。
+### 第一步：打开Claude官网，依次点击“Upgrade”按钮和“Subscribe to Pro”按钮。
 
 * **Claude订阅地址**：claude.ai
 
-![Claude订阅Pro地址是多少，Claude Sonnet订阅流程，Claude Pro订阅第一步：打开Claude官网，点击“Upgrade”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E8%AE%A2%E9%98%85-1.png)
+![Claude订阅Pro地址是多少，Claude Sonnet订阅流程，Claude Pro订阅第一步：点击“Upgrade”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E8%AE%A2%E9%98%85-1.png)
 
-![Claude订阅Pro地址是多少，Claude Sonnet订阅流程，Claude Pro订阅第一步：打开Claude官网，点击“Upgrade”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E8%AE%A2%E9%98%85-2.png)
+![Claude订阅Pro地址是多少，Claude Sonnet订阅流程，Claude Pro订阅第一步：点击“Subscribe to Pro”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E8%AE%A2%E9%98%85-2.png)
 
 ### 第二步：将从野卡平台获取的信用卡信息复制并粘贴到下方对应的输入框中，点击“Subscribe”按钮后，即可完成Claude Pro订阅升级。
 
