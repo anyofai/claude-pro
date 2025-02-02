@@ -112,7 +112,7 @@ OK，截止到目前为止，我们已经成功获取了一张野卡虚拟信用
 
 * 野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
-![Claude Pro订阅 - Claude号码怎么解决 - 获取国外手机号码方法一：通过野卡平台获取](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E8%B4%AD%E4%B9%B0%E5%BC%80%E9%80%9AClaude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E8%8E%B7%E5%8F%96%E5%9B%BD%E5%A4%96%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%AD%A5%E9%AA%A4%E4%B8%80.jpg)
+![Claude Pro订阅 - Claude号码怎么解决 - 获取国外手机号码方法一：通过野卡平台获取](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-9.png)
 
 ### 方法二：通过Sms-activate平台获取
 
