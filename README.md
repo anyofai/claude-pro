@@ -170,11 +170,13 @@ OK，当你完成以上所有步骤后，Claude账号就注册成功了。现在
 
 * **Claude订阅地址**：claude.ai
 
-![Claude订阅Pro地址是多少，Claude Sonnet订阅流程，Claude Pro订阅第一步：打开Claude官网，点击右上角的“Upgrade Plan”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%89%93%E5%BC%80Claude%E5%AE%98%E7%BD%91%E5%B9%B6%E7%82%B9%E5%87%BBUpgrade%20Plan.jpg)
+![Claude订阅Pro地址是多少，Claude Sonnet订阅流程，Claude Pro订阅第一步：打开Claude官网，点击“Upgrade”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E8%AE%A2%E9%98%85-2.png)
+
+![Claude订阅Pro地址是多少，Claude Sonnet订阅流程，Claude Pro订阅第一步：打开Claude官网，点击“Upgrade”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E8%AE%A2%E9%98%85-1.png)
 
 ### 第二步：将从野卡平台获取的信用卡信息复制并粘贴到下方对应的输入框中，点击“Subscribe”按钮后，即可完成Claude Pro订阅升级。
 
-![Claude订阅地址是哪个，Claude Sonnet订阅流程，Claude Pro订阅第二步：将从野卡平台获取的信用卡信息复制并粘贴到下方对应的输入框中，点击“Subscribe”按钮后，即可完成Claude Pro订阅升级](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E5%8D%87%E7%BA%A7Claude%20Pro%E6%AD%A5%E9%AA%A4%E4%BA%8C.jpg)
+![Claude订阅地址是哪个，Claude Sonnet订阅流程，Claude Pro订阅第二步：将从野卡平台获取的信用卡信息复制并粘贴到下方对应的输入框中，点击“Subscribe”按钮后，即可完成Claude Pro订阅升级](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E8%AE%A2%E9%98%85-3.png)
 
 OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Claude Sonnet 3.5的强大功能。现在，你可以尽情体验其卓越的上下文处理能力和出色的文本生成效果。无论是日常对话、文档分析，还是复杂任务处理，Claude都将为你提供最佳支持。
 
