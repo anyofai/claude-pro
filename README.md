@@ -204,7 +204,9 @@ OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Cl
 
 ![Claude国内购买第三步：选择所需“时长”，输入优惠码“ANYOFAI”，然后按照流程完成支付](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-3.png)
 
-最后，我们需要提醒大家，如果你还没有Claude账号，那么在完成付款后，星际放映厅会为你提供一个已经订阅好的Claude Pro账号；如果你已有Claude账号，则需要联系在线客服，将你的Claude账号共享给星际放映厅，由他们帮你完成Claude Pro的充值操作。当Claude Pro充值完成后，你即可直接开始使用。立即购买Claude Pro帐号：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>。
+最后，我们需要提醒大家，如果你还没有Claude账号，那么在完成付款后，星际放映厅会为你提供一个已经订阅好的Claude Pro账号；如果你已有Claude账号，则需要联系在线客服，将你的Claude账号共享给星际放映厅，由他们帮你完成Claude Pro的充值操作。当Claude Pro充值完成后，你即可直接开始使用。
+
+* 立即购买Claude Pro帐号：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>。
 
 ## Claude Pro合租共享帐号值得尝试吗？
 
