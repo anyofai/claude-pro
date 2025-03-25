@@ -210,6 +210,8 @@ OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Cl
 
 ## Claude Pro合租共享帐号值得尝试吗？
 
+![Claude Pro合租共享帐号值得尝试吗？](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro-hezu.png)
+
 与购买Claude Pro账号的观点类似，我们也不建议大家使用Claude Pro合租账号。所谓Claude Pro合租账号，就是多个用户共享同一个Claude Pro账号的使用权限。然而，这种方式存在诸多隐患。首先，其他用户可能会查看你的历史使用记录，包括你在Claude Sonnet 3.7中的交互内容和生成的文本。此外，你的使用记录甚至Claude Sonnet 3.7的训练过程，可能会被其他用户删除或覆盖。这样一来，当你下次使用Claude Pro时，可能需要重新调整或训练模型，极大地影响使用体验。
 
 其次，由于多人共享同一个Claude Pro账号，其他用户的违规行为可能导致Claude账号被封禁。在这种情况下，所有Claude Pro合租者都会受到牵连，不仅损失资金，还可能失去访问Claude的权限。此外，Claude Pro合租账号的使用环境复杂，频繁变化的IP地址和不同用户的操作行为可能触发Claude的风控机制，进一步增加封号风险。
