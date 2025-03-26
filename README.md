@@ -44,7 +44,7 @@ Claude Pro是什么？Claude Pro是Anthropic提供的付费订阅服务，基于
 
 ![Claude多少钱一个月](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E8%AE%A2%E9%98%85-2.png)
 
-Claude主要提供免费版和付费版两种服务，其中付费版支持按月支付和按年支付两种订阅方式。Claude Pro的费用为每月20美元或每年240美元，用户可以根据自身需求灵活选择订阅周期。
+Claude提供免费版和付费版两种服务，其中付费版又分“Pro”（每月20美金）和“Team”（每月25美金）两种订阅套餐，大家可以根据自己的实际需求选择合适的订阅套餐！
 
 Claude Pro是基于最新的Claude Sonnet 3.7模型，具备更高的性能和更强的上下文处理能力，支持一次最多输入100K tokens，是免费版所无法媲美的。对于高频用户，订阅Claude Pro不仅解锁了无限次调用权限，还提供了优先使用Claude Sonnet模型的特权，确保即使在繁忙时段也能享受流畅稳定的服务。此外，Claude Pro用户还可在使用过程中体验Anthropic推出的其他功能优化，例如Claude 3 Opus，这一版本专为特定场景和复杂任务进行了深度优化。
 
