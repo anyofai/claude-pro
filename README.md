@@ -212,7 +212,7 @@ OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Cl
 
 但非常遗憾的是，虽然市面上的Claude Pro合租服务商虽不少，但真正值得信赖的却寥寥无几。这主要是因为Claude封号现象特别严重，加上绝大多数Claude Pro合租平台都由个人或小团队运营，导致它们难以为用户提供稳定可靠的合租账号。因此，如果你想合租Claude Pro账号，一定要选择安全可靠的平台，尽量避免那些个人或小团队提供的服务，以免造成金钱损失和使用困扰。经过全面分析和深入评估，我们精心筛选出两个安全可靠的Claude Pro合租平台：“星际放映厅”和“银河录像局”。
 
-### Claude Pro合租平台一：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
+**Claude Pro合租平台（一）：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>**
 
 ![Claude Pro合租共享帐号值得尝试吗？](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro-hezu.png)
 
@@ -220,11 +220,11 @@ OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Cl
 
 <p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">立即访问星际放映厅官网<a/></p>
 
-### Claude Pro合租平台二：<a href="https://nf.video/BTgSc">银河录像局</a>
+**Claude Pro合租平台（二）：<a href="https://nf.video/BTgSc">银河录像局</a>**
 
 ![Claude Pro合租共享帐号值得尝试吗？](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro-Hezu-1.png)
 
-除了星际放映厅外，银河录像局也提供Claude Pro合租账号服务！而且通过银河录像局购买Claude合租账号，用户无需担心科学上网、账号被封等问题，也不需要解决国外手机号和国外信用卡的问题。更多详情请查看《<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>》一文。
+除了星际放映厅外，银河录像局也提供Claude Pro合租账号服务！而且通过银河录像局购买Claude合租账号，用户无需担心科学上网、账号被封等问题，也不需要解决国外手机号和国外信用卡的问题。更多详情请查看《<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>》。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网<a/></p>
 
