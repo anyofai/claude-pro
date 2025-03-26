@@ -27,7 +27,7 @@ OK，接下来你只需按照我们的操作步骤一步一步的来执行，就
 <h3 id="2-如何获取国外手机号码claude号码怎么解决">2. <a href="#如何获取国外手机号码claude号码怎么解决">如何快速获取一个国外手机号码？</a></h3>
 <h3 id="3-如何注册claude帐号">3. <a href="#如何注册claude帐号">Claude注册流程：如何注册Claude帐号？</a></h3>
 <h3 id="4-国内订阅claude-prosonnet流程claude订阅pro地址是多少">4. <a href="#国内订阅claude-prosonnet流程claude订阅pro地址是多少">Claude Pro订阅流程：国内如何开通Claude Pro会员？</a></h3>
-<h3 id="5-claude国内购买流程如何购买claude-pro帐号">5. <a href="#claude国内购买流程如何购买claude-pro帐号">国内Claude帐号购买流程：如何购买Claude Pro（成品）帐号？</a></h3>
+<h3 id="5-claude国内购买流程如何购买claude-pro帐号">5. <a href="#claude国内购买流程如何购买claude-pro帐号">Claude帐号购买流程：国内如何购买Claude Pro（成品）帐号？</a></h3>
 </blockquote>
 
 ## Claude是什么？Claude有次数限制？Claude Pro是什么？Claude Pro怎么样？
