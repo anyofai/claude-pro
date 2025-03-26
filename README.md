@@ -65,9 +65,9 @@ Claude Pro是基于最新的Claude Sonnet 3.7模型，具备更高的性能和�
 
 接下来，我们将手把手教大家如何快速获取一张“**WildCard野卡虚拟信用卡**”！
 
-### 第一步：访问野卡官网，并使用+86手机号完成野卡账号注册。
+### 第一步：访问WildCard野卡官网，并使用+86手机号完成野卡账号注册。
 
-* 野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
+* WildCard野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
 ![Claude Pro订阅 - Claude能用国内信用卡吗 - 获取野卡虚拟信用卡第一步：访问野卡官网，并使用+86手机号完成野卡账号注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-1.png)
 
@@ -246,6 +246,8 @@ OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Cl
 苹果礼品卡目前无法用于直接购买Claude Pro会员。Claude的订阅费用必须通过国际信用卡或虚拟信用卡支付。尽管Claude已经推出了iOS版本，用户可以通过苹果App Store下载并使用，但目前并不支持使用苹果礼品卡为Claude Pro充值，这一点需要特别注意。
 
 如果你计划开通Claude Pro，建议使用野卡虚拟信用卡。野卡虚拟信用卡不仅可以用于开通Claude Pro会员，还适用于ChatGPT Plus、MidJourney等其他国际服务。它操作简单、无月租费，支持长期使用，是当前中国用户开通Claude Pro的最佳支付工具之一。
+
+<p align="center"><a href="https://yeka.ai/i/ANYOFAI">立即访问WildCard野卡信用卡</a></p>
 
 ## Claude如何删除历史记录？
 
