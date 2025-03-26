@@ -194,17 +194,17 @@ OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Cl
 
 * 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3wLPME">https://www.naifeistation.com?invite=3wLPME</a>
 
-![Claude国内购买第一步：打开星际放映厅官网，并使用手机号完成登录](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-1.png)
+![国内如何购买Claude Pro（成品）帐号？Claude帐号购买步骤一：打开星际放映厅官网，并使用手机号完成登录](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-1.png)
 
 ### 第二步：回到星际放映厅首页，依次点击“AI工具箱”和“Claude Pro”。
 
-![Claude国内购买第二步：回到星际放映厅首页，依次点击“AI工具箱”和“Claude Pro”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-2.png)
+![国内如何购买Claude Pro（成品）帐号？Claude帐号购买步骤二：回到星际放映厅首页，依次点击“AI工具箱”和“Claude Pro”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-2.png)
 
 ### 第三步：选择所需“时长”，输入优惠码“ANYOFAI”，然后按照流程完成支付。
 
 注意：使用专属优惠码“**ANYOFAI**”可享九折优惠！
 
-![Claude国内购买第三步：选择所需“时长”，输入优惠码“ANYOFAI”，然后按照流程完成支付](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7--3.png)
+![国内如何购买Claude Pro（成品）帐号？Claude帐号购买步骤三：选择所需“时长”，输入优惠码“ANYOFAI”，然后按照流程完成支付](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7--3.png)
 
 最后，我们需要提醒大家，如果你还没有Claude账号，那么在完成付款后，星际放映厅会为你提供一个已经订阅好的Claude Pro账号；如果你已有Claude账号，则需要联系在线客服，将你的Claude账号共享给星际放映厅，由他们帮你完成Claude Pro的充值操作。当Claude Pro充值完成后，你即可直接开始使用。
 
@@ -218,7 +218,7 @@ OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Cl
 
 **Claude Pro合租平台（一）：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>**
 
-![Claude Pro合租共享帐号值得尝试吗？](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro-hezu.png)
+![最靠谱的Claude Pro合租平台一：星际放映厅](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro-hezu.png)
 
 其中星际放映厅在前文已有详细介绍，它不仅提供Claude Pro成品账号，还特别推出了Claude Pro合租服务。值得一提的是，星际放映厅的Claude Pro合租账号每月仅需55元，用户可以无限制地畅享Claude Sonnet 3.7模型的强大功能，更贴心的是，使用优惠码"ANYOFAI"还能额外享受九折优惠。
 
@@ -226,7 +226,7 @@ OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Cl
 
 **Claude Pro合租平台（二）：<a href="https://nf.video/BTgSc">银河录像局</a>**
 
-![Claude Pro合租共享帐号值得尝试吗？](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro-Hezu-1.png)
+![最靠谱的Claude Pro合租平台二：银河录像局](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro-Hezu-1.png)
 
 除了星际放映厅外，银河录像局也提供Claude Pro合租账号服务！而且通过银河录像局购买Claude合租账号，用户无需担心科学上网、账号被封等问题，也不需要解决国外手机号和国外信用卡的问题。更多详情请查看：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>。
 
