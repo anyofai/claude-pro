@@ -216,9 +216,13 @@ OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Cl
 
 ![Claude Pro合租共享帐号值得尝试吗？](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro-hezu.png)
 
+其中星际放映厅在前文已有详细介绍，它不仅提供Claude Pro成品账号，还特别推出了Claude Pro合租服务。值得一提的是，星际放映厅的Claude Pro合租账号每月仅需55元，用户可以无限制地畅享Claude Sonnet 3.7模型的强大功能，更贴心的是，使用优惠码"ANYOFAI"还能额外享受九折优惠。
+
 <p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">立即访问星际放映厅官网<a/></p>
 
-其中星际放映厅在前文已有详细介绍，它不仅提供Claude Pro成品账号，还特别推出了Claude Pro合租服务。值得一提的是，星际放映厅的Claude Pro合租账号每月仅需55元，用户可以无限制地畅享Claude Sonnet 3.7模型的强大功能，更贴心的是，使用优惠码"ANYOFAI"还能额外享受九折优惠。
+除了星际放映厅外，银河录像局也提供Claude Pro合租账号服务！而且通过银河录像局购买Claude合租账号，用户无需担心科学上网、账号被封等问题，也不需要解决国外手机号和国外信用卡的问题。更多详情请查看《<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>》一文。
+
+<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网<a/></p>
 
 ## 中国的港澳地区能用Claude吗？
 
