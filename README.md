@@ -216,7 +216,7 @@ OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Cl
 
 经过全面分析和深入评估，我们精心筛选出两个安全可靠的Claude Pro合租平台：“星际放映厅”和“银河录像局”。
 
-**Claude Pro合租平台（一）：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>**
+### Claude Pro合租平台（一）：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
 
 ![最靠谱的Claude Pro合租平台一：星际放映厅](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro-hezu.png)
 
@@ -224,7 +224,7 @@ OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Cl
 
 <p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">立即访问星际放映厅官网<a/></p>
 
-**Claude Pro合租平台（二）：<a href="https://nf.video/BTgSc">银河录像局</a>**
+### Claude Pro合租平台（二）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
 ![最靠谱的Claude Pro合租平台二：银河录像局](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro-Hezu-1.png)
 
