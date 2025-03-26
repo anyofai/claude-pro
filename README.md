@@ -1,4 +1,4 @@
-# 最新Claude Pro订阅教程：国内如何访问Claude？如何注册Claude？如何购买Claude Pro会员帐号？Claude能用国内信用卡/银行卡吗？
+# 最新Claude Pro订阅教程：国内如何注册Claude帐号？如何订阅Claude Pro会员？如何购买Claude Pro成品帐号？Claude能用国内信用卡/银行卡吗？
 
 <p align="center">最近更新于：2025年3月25日</p>
 
