@@ -220,7 +220,7 @@ OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Cl
 
 <p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">立即访问星际放映厅官网<a/></p>
 
-### Claude Pro合租平台二：星际放映厅
+### Claude Pro合租平台二：<a href="https://nf.video/BTgSc">银河录像局</a>
 
 ![Claude Pro合租共享帐号值得尝试吗？](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro-Hezu-1.png)
 
