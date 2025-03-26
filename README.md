@@ -43,7 +43,7 @@ Claude Pro是什么？Claude Pro是Anthropic提供的付费订阅服务，基于
 
 ## Claude多少钱一个月？
 
-![Claude多少钱一个月](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E8%AE%A2%E9%98%85-2.png)
+![Claude Pro订阅价格是多少？](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E8%AE%A2%E9%98%85-2.png)
 
 Claude提供免费版和付费版两种服务，其中付费版又分“Pro”（每月20美金）和“Team”（每月25美金）两种订阅套餐，大家可以根据自己的实际需求选择合适的订阅套餐！
 
