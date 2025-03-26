@@ -206,8 +206,6 @@ OK，通过以上步骤，你已成功完成Claude Pro订阅，全面解锁了Cl
 
 最后，我们需要提醒大家，如果你还没有Claude账号，那么在完成付款后，星际放映厅会为你提供一个已经订阅好的Claude Pro账号；如果你已有Claude账号，则需要联系在线客服，将你的Claude账号共享给星际放映厅，由他们帮你完成Claude Pro的充值操作。当Claude Pro充值完成后，你即可直接开始使用。
 
-<p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">立即访问星际放映厅官网</a></p>
-
 ## Claude Pro合租共享帐号值得尝试吗？
 
 很多中国大陆用户可能因为无法解决科学上网的问题，又或者因为每月20美金的Claude Pro订阅费用太贵，亦或者因为国内Claude封号非常严重等原因，想要寻找Claude Pro合租服务！
