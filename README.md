@@ -244,7 +244,7 @@ OK，当按照以上步骤操作完成后，你就已经成功订阅了Claude Pr
 
 “2233.ai”是由WildCard野卡推出的Claude Pro和ChatGPT Plus会员合租平台。通过2233.ai平台合租Claude Pro会员时，你无需准备国外手机号码，也不需要去申请海外虚拟信用卡，更不用为科学上网问题而烦恼。你每月只需支付9.99美元（使用邀请码“ANYOFAI”还可以立减1美金），使用+86手机号在2233.ai平台上注册一个账户，然后就可以畅享Claude Pro和ChatGPT Plus会员的全部功能和服务。
 
-在2233.ai平台上合租Claude Pro会员时，每位用户的对话记录都会被独立存储，账户之间互不影响，有效保障你的隐私安全。而且，你无需自己注册Claude账号，也无需单独订阅Claude Pro会员，更不用担心Claude账号被封等问题。更多关于2233.ai的相关信息，请参考：WildCard野卡信用卡。
+在2233.ai平台上合租Claude Pro会员时，每位用户的对话记录都会被独立存储，账户之间互不影响，有效保障你的隐私安全。而且，你无需自己注册Claude账号，也无需单独订阅Claude Pro会员，更不用担心Claude账号被封等问题。更多关于2233.ai的相关信息，请参考：<a href="https://anyofai.github.io/">WildCard野卡信用卡</a>。
 
 <p align="center"><a href="https://yeka.ai/i/ANYOFAI">立即访问2233.ai</a></p>
 
@@ -254,7 +254,7 @@ OK，当按照以上步骤操作完成后，你就已经成功订阅了Claude Pr
 
 银河录像局是杭州崇宇信息科技有限公司旗下的合租平台，公司成立于2019年，至今已成功运营五年以上，并且具备完善的ICP备案（浙ICP备2022036459号）和互联网经营许可证（浙B2-20230847）。多年来，银河录像局一直专注于各类流媒体（如Netflix、Disney+、HBO Max、Spotify等）和热门AI工具（包括ChatGPT Plus、Claude Pro、Midjourney等）的合租服务，拥有丰富的行业经验和良好的用户口碑。
 
-在银河录像局合租Claude Pro会员时，你无需自己注册Claude账号，也不用自己订阅Claude Pro会员，更不用为科学上网的问题发愁，同时也完全不用担心账号被封的风险。银河录像局的价格也比较实惠，Claude Pro镜像试用一天卡只要8元，镜像月卡也仅需99元，让你能够轻松、低门槛地体验Claude Pro的全部功能和服务。关于在银河录像局平台上合租Claude Pro会员的操作步骤，请参见：Claude Pro合租。
+在银河录像局合租Claude Pro会员时，你无需自己注册Claude账号，也不用自己订阅Claude Pro会员，更不用为科学上网的问题发愁，同时也完全不用担心账号被封的风险。银河录像局的价格也比较实惠，Claude Pro镜像试用一天卡只要8元，镜像月卡也仅需99元，让你能够轻松、低门槛地体验Claude Pro的全部功能和服务。关于在银河录像局平台上合租Claude Pro会员的操作步骤，请参见：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网<a/></p>
 
@@ -262,7 +262,7 @@ OK，当按照以上步骤操作完成后，你就已经成功订阅了Claude Pr
 
 ![最靠谱的Claude Pro合租平台三：星际放映厅](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro-hezu.png)
 
-星际放映厅在前文中已经为大家详细介绍过，不仅可以通过该平台购买Claude Pro成品账号，还可以合租Claude Pro会员。值得一提的是，星际放映厅的Claude Pro合租账号每月仅需55元（使用优惠码“ANYOFAI”还可享受九折优惠），用户可以不限次数地畅享Claude Opus 4和Claude Sonnet 4等模型的强大功能。此外，星际放映厅还提供Claude Pro代充值服务，更多详情请参考：Claude Pro代充值。
+星际放映厅在前文中已经为大家详细介绍过，不仅可以通过该平台购买Claude Pro成品账号，还可以合租Claude Pro会员。值得一提的是，星际放映厅的Claude Pro合租账号每月仅需55元（使用优惠码“ANYOFAI”还可享受九折优惠），用户可以不限次数地畅享Claude Opus 4和Claude Sonnet 4等模型的强大功能。
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅</a></p>
 
