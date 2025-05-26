@@ -320,11 +320,11 @@ Claude封号的主要原因包括：
 
 跟ChatGPT一样，Claude也是近几年非常火爆的AI工具之一，尤其在处理复杂指令、理解上下文以及生成自然流畅文本方面，Claude在某些场景下甚至表现得比ChatGPT更出色。然而，跟<a href="https://github.com/anyofai/anyofai.github.io">充值GPT Plus</a>相比，开通Claude Pro会员的流程要稍微复杂一些。但只要你按照本文提供的操作步骤一步步进行，同样可以顺利完成Claude Pro的订阅，体验其强大功能。简而言之，国内充值购买Claude Pro会员的流程虽然看起来较为复杂，但概括起来其实只需要以下五个步骤：
 
-注册一个海外Gmail邮箱，或通过“<a href="https://nf.video/BTgSc">银河录像局</a>”购买现成的Gmail邮箱；
-通过WildCard野卡平台或<a href="https://sms-activate.io/?ref=3917403">Sms-activate平台</a>获取一个国外手机号码；
-申请一张<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡信用卡</a>（使用邀请码“ANYOFAI”可立减1美元），并为其充值至少20美元；
-用准备好的Gmail邮箱和国外手机号注册Claude账号；
-使用WildCard野卡信用卡充值并开通Claude Pro会员。
+* 注册一个海外Gmail邮箱，或通过“<a href="https://nf.video/BTgSc">银河录像局</a>”购买现成的Gmail邮箱；
+* 通过WildCard野卡平台或<a href="https://sms-activate.io/?ref=3917403">Sms-activate平台</a>获取一个国外手机号码；
+* 申请一张<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡信用卡</a>（使用邀请码“ANYOFAI”可立减1美元），并为其充值至少20美元；
+* 用准备好的Gmail邮箱和国外手机号注册Claude账号；
+* 使用WildCard野卡信用卡充值并开通Claude Pro会员。
 
 需要特别提醒的是，无论是在注册Claude账号还是为Claude Pro充值时，务必使用稳定的美国节点，避免频繁切换IP地址或使用不安全的科学上网工具，从而降低Claude账号被封禁的风险。
 
