@@ -100,9 +100,9 @@ Claude为全球用户提供三种不同类型的账户，分别是Claude免费�
 
 当你输入邀请码"ANYOFAI"并点击"下一步"之后，接下来就按照系统的提示一步一步操作即可，包括查看"重要服务说明"、"支持的产品列表"、"不支持的产品列表"和"OpenAI封禁须知"等信息。然后填写个人姓名和身份证号等信息，并按照系统提示使用支付宝完成实名认证，支付WildCard野卡信用卡年费。
 
-当你完成以上所有操作后，就可以看到"恭喜您开通卡片成功"的提示信息。此时，就代表你已经成功申请到了一张可用于订阅Claude Pro会员的国外虚拟信用卡。
-
 ![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取野卡虚拟信用卡第四步：按照系统提示完成实名认证并支付WildCard野卡年费](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81.png)
+
+当你完成以上所有操作后，就可以看到"恭喜您开通卡片成功"的提示信息。此时，就代表你已经成功申请到了一张可用于订阅Claude Pro会员的国外虚拟信用卡。
 
 ![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取野卡虚拟信用卡第四步：按照系统提示完成实名认证并支付WildCard野卡年费](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E5%AE%8C%E6%88%90%E5%BC%80%E5%8D%A1.png)
 
