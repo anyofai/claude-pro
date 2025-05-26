@@ -76,63 +76,63 @@ Claude为全球用户提供三种不同类型的账户，分别是Claude免费�
 
 接下来，我们将手把手教大家如何快速获取一张“**WildCard野卡虚拟信用卡**”！
 
-### 第一步：访问WildCard野卡官网，并使用+86手机号完成野卡账号注册。
+### 第一步：访问WildCard野卡官网，并使用+86手机号完成WildCard野卡账号注册。
 
 * WildCard野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
-![Claude Pro订阅 - Claude能用国内信用卡吗 - 获取野卡虚拟信用卡第一步：访问野卡官网，并使用+86手机号完成野卡账号注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-1.png)
+![Claude Pro订阅 - Claude能用国内信用卡吗 - 获取WildCard野卡虚拟信用卡第一步：访问WildCard野卡官网，并使用+86手机号完成WildCard野卡账号注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-1.png)
 
 ### 第二步：依次点击“立即开通”和“开通会员”按钮。
 
-![Claude Pro订阅 - Claude能用国内信用卡吗 - 获取野卡虚拟信用卡第二步：点击左侧的“立即开通”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-2.png)
+![Claude Pro订阅 - Claude能用国内信用卡吗 - 获取WildCard野卡虚拟信用卡第二步：点击左侧的“立即开通”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-2.png)
 
-![Claude Pro订阅 - Claude能用国内信用卡吗 - 获取野卡虚拟信用卡第二步：点击“开通会员”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-3.png)
+![Claude Pro订阅 - Claude能用国内信用卡吗 - 获取WildCard野卡虚拟信用卡第二步：点击“开通会员”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-3.png)
 
 ### 第三步：选择服务年限，输入邀请码“ANYOFAI”并点击“下一步”按钮。
 
 注意：市面上所有虚拟信用卡都需要收取年费，WildCard野卡也不例外。毕竟人家提供了服务，多少都要给点辛苦费，这个也是可以理解的。当然，除了年费之外，WildCard野卡没有其他费用，**也没有月租**。
 
-通过本文提供的链接（<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>）进入野卡官网，或者使用邀请码"**ANYOFAI**"，可以立减1美金！即1年的年费为10.99美金，2年的年费为15.99美金。
+通过本文提供的链接（<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>）进入WildCard野卡官网，或者使用邀请码"**ANYOFAI**"，可以立减1美金！即1年的年费为10.99美金，2年的年费为15.99美金。
 
-![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取野卡虚拟信用卡第三步：选择服务年限，输入邀请码“ANYOFAI”并点击“下一步”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-4.png)
+![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取WildCard野卡虚拟信用卡第三步：选择服务年限，输入邀请码“ANYOFAI”并点击“下一步”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-4.png)
 
 ### 第四步：按照系统提示完成实名认证并支付WildCard野卡年费。
 
 当你输入邀请码"ANYOFAI"并点击"下一步"之后，接下来就按照系统的提示一步一步操作即可，包括查看"重要服务说明"、"支持的产品列表"、"不支持的产品列表"和"OpenAI封禁须知"等信息。然后填写个人姓名和身份证号等信息，并按照系统提示使用支付宝完成实名认证，支付WildCard野卡信用卡年费。
 
-![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取野卡虚拟信用卡第四步：按照系统提示完成实名认证并支付WildCard野卡年费](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81.png)
+![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取WildCard野卡虚拟信用卡第四步：按照系统提示完成实名认证并支付WildCard野卡年费](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81.png)
 
 当你完成以上所有操作后，就可以看到"恭喜您开通卡片成功"的提示信息。此时，就代表你已经成功申请到了一张可用于订阅Claude Pro会员的国外虚拟信用卡。
 
-![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取野卡虚拟信用卡第四步：按照系统提示完成实名认证并支付WildCard野卡年费](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E5%AE%8C%E6%88%90%E5%BC%80%E5%8D%A1.png)
+![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取WildCard野卡虚拟信用卡第四步：按照系统提示完成实名认证并支付WildCard野卡年费](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E5%AE%8C%E6%88%90%E5%BC%80%E5%8D%A1.png)
 
 ### 第五步：点击"订阅服务"，并使用支付宝为WildCard野卡充值20美金。
 
 由于WildCard野卡信用卡采用预付费模式，不同于传统信用卡的"先消费后还款"，所以用户需要先往WildCard野卡信用卡中充值，然后才能正常消费。Claude Pro的订阅费用为每月20美元，所以这里的充值金额必须大于等于20美元。
 
-![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取野卡虚拟信用卡第五步：点击"订阅服务"，并使用支付宝为WildCard野卡充值20美金](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-7.png)
+![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取WildCard野卡虚拟信用卡第五步：点击"订阅服务"，并使用支付宝为WildCard野卡充值20美金](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-7.png)
 
 ### 第六步：复制并保存用于充值购买Claude Pro帐号所需的信用卡信息。
 
-![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取野卡虚拟信用卡第六步：复制并保存用于充值购买Claude Pro帐号所需的信用卡信息](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-8.png)
+![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取WildCard野卡虚拟信用卡第六步：复制并保存用于充值购买Claude Pro帐号所需的信用卡信息](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-8.png)
 
-OK，截止到目前为止，我们已经成功获取了一张野卡虚拟信用卡！但由于篇幅限制，本文未对野卡虚拟信用卡的获取步骤进行完整展开。如果你在操作过程中遇到问题，可以参考我们的《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>》或《<a href="https://anyofai.github.io/">野卡虚拟信用卡</a>》一文，其中详细介绍了每一步的操作方法。
+OK，截止到目前为止，我们已经成功获取了一张WildCard野卡信用卡！但由于篇幅限制，本文未对WildCard野卡信用卡的获取步骤进行完整展开。如果你在操作过程中遇到问题，可以参考我们的《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>》或《<a href="https://anyofai.github.io/">WildCard野卡虚拟信用卡</a>》一文，其中详细介绍了每一步的操作方法。
 
-此外，无论是在获取野卡虚拟信用卡的过程中，还是在后续使用时，若你遇到问题，都可以随时联系野卡的在线客服。他们将为你提供及时且有效的解决方案，确保问题得到妥善处理。
+此外，无论是在获取WildCard野卡虚拟信用卡的过程中，还是在后续使用时，若你遇到问题，都可以随时联系WildCard野卡的在线客服。他们将为你提供及时且有效的解决方案，确保问题得到妥善处理。
 
 ## 如何获取国外手机号码？Claude号码怎么解决？ 
 
 在注册Claude账号时，必须要完成手机号码验证。然而，正如前文提到的，Claude尚未向中国用户开放，因此国内的+86手机号无法接收验证短信。那么，Claude号码怎么解决呢？目前，最可行的办法是获取一个国外手机号码。接下来，我们将详细介绍两种常见的获取国外手机号码的方法，帮助你顺利完成Claude的注册。
 
-### 方法一：通过野卡平台获取（推荐）
+### 方法一：通过WildCard野卡平台获取（推荐）
 
 当你按照我们前文的操作步骤成功开通了WildCard野卡信用卡（即支付完年费）后，你就可以**免费申请3个海外手机号码**。而且申请方法很简单，只需点击左侧导航栏中的"海外手机号"按钮，并按照系统提示操作即可。
 
 需要提醒大家的是，通过WildCard野卡平台获取的国外手机号码有效期仅为25分钟，因此请尽快使用！此外，在使用WildCard野卡平台提供的国外手机号码注册Claude帐号的过程中，无论遇到任何问题，都可以第一时间联系WildCard野卡官方客服寻求帮助。
 
-* 野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
+* WildCard野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
-![Claude Pro订阅 - Claude号码怎么解决 - 获取国外手机号码方法一：通过野卡平台获取](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-9.png)
+![Claude Pro订阅 - Claude号码怎么解决 - 获取国外手机号码方法一：通过WildCard野卡平台获取](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-9.png)
 
 ### 方法二：通过Sms-activate平台获取
 
@@ -176,7 +176,7 @@ Sms-activate平台的操作流程如下：打开官网 > 将网站语言切换�
 
 ### 第四步：获取手机验证码并点击“Verify & Create Account”。
 
-返回野卡后台或接码平台，复制接收到的验证码，粘贴到下方的输入框中，点击“Verify & Create Account”按钮，即可完成手机验证。
+返回WildCard野卡后台或接码平台，复制接收到的验证码，粘贴到下方的输入框中，点击“Verify & Create Account”按钮，即可完成手机验证。
 
 ![Claude Pro开通 - 注册Claude帐号第四步：获取手机验证码并点击“Verify & Create Account”](https://raw.githubusercontent.com/anyofai/claude-pro/main/image/%E5%9B%BD%E5%86%85%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Claude%20Pro%E6%95%99%E7%A8%8B%EF%BC%9A%E6%B3%A8%E5%86%8CClaude%20Pro%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4%E5%9B%9B.jpg)
 
@@ -194,9 +194,9 @@ OK，当你完成以上所有步骤后，Claude账号就注册成功了。现在
 
 ![Claude订阅Pro地址是多少，Claude Sonnet订阅流程，Claude Pro订阅第一步：点击“Subscribe to Pro”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E8%AE%A2%E9%98%85-2.png)
 
-### 第二步：将从野卡平台获取的信用卡信息复制并粘贴到下方对应的输入框中，点击“Subscribe”按钮后，即可完成Claude Pro订阅升级。
+### 第二步：将从WildCard野卡平台获取的信用卡信息复制并粘贴到下方对应的输入框中，点击“Subscribe”按钮后，即可完成Claude Pro订阅升级。
 
-![Claude订阅地址是哪个，Claude Sonnet订阅流程，Claude Pro订阅第二步：将从野卡平台获取的信用卡信息复制并粘贴到下方对应的输入框中，点击“Subscribe”按钮后，即可完成Claude Pro订阅升级](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E8%AE%A2%E9%98%85-3.png)
+![Claude订阅地址是哪个，Claude Sonnet订阅流程，Claude Pro订阅第二步：将从WildCard野卡平台获取的信用卡信息复制并粘贴到下方对应的输入框中，点击“Subscribe”按钮后，即可完成Claude Pro订阅升级](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E8%AE%A2%E9%98%85-3.png)
 
 OK，当按照以上步骤操作完成后，你就已经成功订阅了Claude Pro会员。接下来，你就可以畅享Claude Opus/Sonnet 4等模型的所有强大功能了。我们相信，无论是日常对话、文档分析，还是处理复杂任务，Claude都能成为你最可靠的工作伙伴。
 
@@ -270,7 +270,7 @@ OK，当按照以上步骤操作完成后，你就已经成功订阅了Claude Pr
 
 中国港澳地区无法使用Claude！虽然港澳地区不受防火长城（GFW）的限制，可以直接访问包括Claude在内的大部分海外网站，但需要注意的是，由于港澳地区属于中国的一部分，Claude也未向港澳地区用户开放服务。因此，尽管港澳用户无需借助科学上网工具即可访问Claude官网，但仍然无法正常使用Claude的相关功能。
 
-对于中国港澳地区的用户来说，如果希望使用Claude服务，仍需满足Claude的相关要求，包括使用国外手机号完成注册，并在订阅Claude Pro时通过野卡虚拟信用卡进行支付。
+对于中国港澳地区的用户来说，如果希望使用Claude服务，仍需满足Claude的相关要求，包括使用国外手机号完成注册，并在订阅Claude Pro时通过WildCard野卡虚拟信用卡进行支付。
 
 此外，尽管中国港澳地区的网络环境较为宽松，但Claude的风控机制不会因地区差异而放松。如果用户在使用过程中频繁更换IP地址，仍可能触发平台的安全检测，导致Claude账号被封禁。因此，港澳地区用户在注册、订阅和使用Claude时，需保持网络环境的稳定，并严格遵守Claude的使用规则，以确保账号安全及服务的稳定性。
 
@@ -278,7 +278,7 @@ OK，当按照以上步骤操作完成后，你就已经成功订阅了Claude Pr
 
 苹果礼品卡目前无法用于直接购买Claude Pro会员。Claude的订阅费用必须通过国际信用卡或虚拟信用卡支付。尽管Claude已经推出了iOS版本，用户可以通过苹果App Store下载并使用，但目前并不支持使用苹果礼品卡为Claude Pro充值，这一点需要特别注意。
 
-如果你计划开通Claude Pro，建议使用野卡虚拟信用卡。野卡虚拟信用卡不仅可以用于开通Claude Pro会员，还适用于ChatGPT Plus、MidJourney等其他国际服务。它操作简单、无月租费，支持长期使用，是当前中国用户开通Claude Pro的最佳支付工具之一。
+如果你计划开通Claude Pro，建议使用WildCard野卡虚拟信用卡。WildCard野卡虚拟信用卡不仅可以用于开通Claude Pro会员，还适用于ChatGPT Plus、MidJourney等其他国际服务。它操作简单、无月租费，支持长期使用，是当前中国用户开通Claude Pro的最佳支付工具之一。
 
 <p align="center"><a href="https://yeka.ai/i/ANYOFAI">立即访问WildCard野卡信用卡</a></p>
 
@@ -305,7 +305,7 @@ Claude封号的主要原因包括：
 为尽量避免Claude封号，建议中国用户采取以下措施：
 
 * 使用稳定的科学上网工具：选择安全性高、稳定可靠的科学上网工具。尤其是在注册和日常使用Claude时，应始终使用同一个固定的美国节点，避免频繁更换IP地址或使用不安全的节点，以降低触发风控机制的风险。
-* 提供真实有效的注册信息：使用符合要求的海外邮箱和国外手机号进行注册，并通过稳定可靠的野卡虚拟信用卡充值Claude Pro会员，这不仅可以提升账号安全性，还能有效减少因异常信息导致的封号风险。
+* 提供真实有效的注册信息：使用符合要求的海外邮箱和国外手机号进行注册，并通过稳定可靠的WildCard野卡虚拟信用卡充值Claude Pro会员，这不仅可以提升账号安全性，还能有效减少因异常信息导致的封号风险。
 * 遵守平台使用政策：严格按照Claude的使用政策操作，避免在不支持访问的地区尝试登录，确保账号的所有操作符合平台规则，避免因违反政策而导致账号封禁。
 
 如果Claude账号被封禁，用户可以尝试以下方法进行申诉：
