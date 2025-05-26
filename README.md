@@ -82,31 +82,33 @@ Claude为全球用户提供三种不同类型的账户，分别是Claude免费�
 
 ![Claude Pro订阅 - Claude能用国内信用卡吗 - 获取野卡虚拟信用卡第一步：访问野卡官网，并使用+86手机号完成野卡账号注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-1.png)
 
-### 第二步：点击左侧的“立即开通”按钮。
+### 第二步：依次点击“立即开通”和“开通会员”按钮。
 
 ![Claude Pro订阅 - Claude能用国内信用卡吗 - 获取野卡虚拟信用卡第二步：点击左侧的“立即开通”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-2.png)
 
-### 第三步：点击“开通会员”，并选择服务年限，然后按照系统提示支付野卡的年费。
+![Claude Pro订阅 - Claude能用国内信用卡吗 - 获取野卡虚拟信用卡第二步：点击“开通会员”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-3.png)
 
-注意：市面上所有虚拟信用卡都需要收取年费，野卡也不例外。毕竟人家提供了服务，多少都要给点辛苦费，这个也是可以理解的。当然，除了年费之外，野卡没有其他费用，**也没有月租**。
+### 第三步：选择服务年限，输入邀请码“ANYOFAI”并点击“下一步”按钮。
 
-通过本文提供的链接（<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>）进入野卡官网，或者使用邀请码“**ANYOFAI**”，可以立减1美金！即1年的年费为10.99美金，2年的年费为15.99美金。
+注意：市面上所有虚拟信用卡都需要收取年费，WildCard野卡也不例外。毕竟人家提供了服务，多少都要给点辛苦费，这个也是可以理解的。当然，除了年费之外，WildCard野卡没有其他费用，**也没有月租**。
 
-![Claude Pro订阅 - Claude能用国内信用卡吗 - 获取野卡虚拟信用卡第三步：点击“开通会员”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-3.png)
+通过本文提供的链接（<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>）进入野卡官网，或者使用邀请码"**ANYOFAI**"，可以立减1美金！即1年的年费为10.99美金，2年的年费为15.99美金。
 
-![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取野卡虚拟信用卡第三步：选择服务年限，然后按照系统提示支付野卡的开卡费](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-4.png)
+![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取野卡虚拟信用卡第三步：选择服务年限，输入邀请码“ANYOFAI”并点击“下一步”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-4.png)
 
-### 第四步：完善个人信息，然后点击“完成认证”按钮。
+### 第四步：按照系统提示完成实名认证并支付WildCard野卡年费。
 
-![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取野卡虚拟信用卡第四步：完善个人信息](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-5.png)
+当你输入邀请码"ANYOFAI"并点击"下一步"之后，接下来就按照系统的提示一步一步操作即可，包括查看"重要服务说明"、"支持的产品列表"、"不支持的产品列表"和"OpenAI封禁须知"等信息。然后填写个人姓名和身份证号等信息，并按照系统提示使用支付宝完成实名认证，支付WildCard野卡信用卡年费。
 
-![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取野卡虚拟信用卡第四步：点击“完成认证”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-6.png)
+当你完成以上所有操作后，就可以看到"恭喜您开通卡片成功"的提示信息。此时，就代表你已经成功申请到了一张可用于订阅Claude Pro会员的国外虚拟信用卡。
 
-### 第五步：点击“订阅服务”，并使用支付宝为野卡虚拟信用卡充值20美金，用于支付Claude Pro订阅费用。
+![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取野卡虚拟信用卡第四步：按照系统提示完成实名认证并支付WildCard野卡年费](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-5.png)
 
-注意：由于Claude Pro的订阅费用为每月20美元，因此充值金额必须大于等于20美元。
+### 第五步：点击"订阅服务"，并使用支付宝为WildCard野卡充值20美金。
 
-![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取野卡虚拟信用卡第五步：点击“订阅服务”，并使用支付宝为野卡虚拟信用卡充值20美金，用于支付Claude Pro订阅费用](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-7.png)
+由于WildCard野卡信用卡采用预付费模式，不同于传统信用卡的"先消费后还款"，所以用户需要先往WildCard野卡信用卡中充值，然后才能正常消费。Claude Pro的订阅费用为每月20美元，所以这里的充值金额必须大于等于20美元。
+
+![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取野卡虚拟信用卡第五步：点击"订阅服务"，并使用支付宝为WildCard野卡充值20美金](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-7.png)
 
 ### 第六步：复制并保存用于充值购买Claude Pro帐号所需的信用卡信息。
 
