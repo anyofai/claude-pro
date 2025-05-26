@@ -116,7 +116,7 @@ OK，当你完成以上所有操作后，就可以看到"恭喜您开通卡片�
 
 ![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取WildCard野卡虚拟信用卡第六步：复制并保存用于充值购买Claude Pro帐号所需的信用卡信息](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-8.png)
 
-OK，截止到目前为止，我们已经成功获取了一张WildCard野卡信用卡！如果你在申请WildCard野卡信用卡的过程中遇到了问题，可以参阅《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>》或《<a href="https://anyofai.github.io/">WildCard野卡虚拟信用卡</a>》等文章，这两篇文章中会有申请WildCard野卡信用卡更加详细的操作步骤。
+OK，截止到目前为止，我们已经成功获取了一张WildCard野卡信用卡！如果你在申请WildCard野卡信用卡的过程中遇到了问题，可以参阅《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>》或《<a href="https://anyofai.github.io/">WildCard野卡虚拟信用卡</a>》等文章，这两篇文章中有申请WildCard野卡信用卡更加详细的操作步骤。
 
 此外，无论是在获取WildCard野卡虚拟信用卡的过程中，还是在后续使用时，若你遇到问题，都可以随时联系WildCard野卡的在线客服。他们将为你提供及时且有效的解决方案，确保问题得到妥善处理。
 
