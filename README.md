@@ -1,6 +1,18 @@
 # 最新Claude Pro订阅教程：国内如何注册Claude帐号？如何订阅Claude Pro会员？如何购买Claude Pro成品帐号？Claude能用国内信用卡/银行卡吗？
 
-<p align="center">最近更新于：2025年7月10日</p>
+<p align="center">最近更新于：2025年7月12日</p>
+
+<blockquote>
+
+#### 🚨🚨关于“WildCard野卡跑路”的重要说明🚨🚨
+
+很遗憾地通知大家，2025年7月12日中午，Wildcard野卡的官方群突然发布公告称，由于一些不可抗力因素，Wildcard将立即停止全部业务。
+
+也就是说，目前国内唯一可以用来给Claude充值、而且我一直觉得非常好用的虚拟信用卡，现在也已经永久停止服务了。从今以后，国内普通用户想要订阅充值Claude Pro会变得更加困难。
+
+我们目前也在积极寻找可以替代“WildCard野卡”的服务。但在找到最佳替代方案之前，大家可以加我们微信（ VX号：ANYOFAI ），我们会为你提供一些订阅充值Claude Pro会员的平替方案。
+
+</blockquote>
 
 ![最新Claude Pro订阅教程：国内如何访问Claude？如何注册Claude？如何购买Claude Pro会员帐号？Claude能用国内信用卡/银行卡吗？](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
