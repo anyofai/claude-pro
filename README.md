@@ -26,7 +26,7 @@ Claude是现如今功能最强大的AI对话模型之一，尤其是最新发布
 
 * 一个稳定的科学上网工具：这一点至关重要，建议选择提供可靠美国节点的科学上网工具。由于科学上网相关问题较为敏感，本文不作具体讨论，请大家自行解决。
 
-* 一张国外信用卡：Claude不能用国内信用卡和银行卡支付，中国香港和澳门地区的银行卡和信用卡同样不可用。因此，大家必须准备一张国外信用卡，或者申请一张"<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡信用卡</a>"。本文下方将会手把手地教大家如何快速申请WildCard野卡信用卡。
+* 一张国外信用卡：Claude不能用国内信用卡和银行卡支付，中国香港和澳门地区的银行卡和信用卡同样不可用。因此，大家必须准备一张国外信用卡，或者申请一张"WildCard野卡信用卡"。本文下方将会手把手地教大家如何快速申请WildCard野卡信用卡。
 
 * 一个国外手机号：注册Claude时需要进行手机验证，但国内的+86手机号无法用于验证。本文下方也会详细地给大家介绍如何解决Claude号码问题。
 
@@ -81,13 +81,11 @@ Claude为全球用户提供三种不同类型的账户，分别是Claude免费�
 
 由于Claude目前尚未向中国用户开放，因此国内的信用卡和银行卡均无法用于支付Claude Pro订阅费用。即便是中国香港和中国澳门地区的银行卡和信用卡也无法使用，因为这两个地区同样属于中国的一部分。
 
-如果你想成功订阅Claude Pro，就需要准备一张国外的信用卡。然而，由于国外实体信用卡的申请和获取对中国用户来说门槛较高，使用国外虚拟信用卡成为了最简便的解决方案。其中，<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>是目前最安全可靠且功能最强大的虚拟信用卡，不仅支持订阅Claude Pro、ChatGPT Plus、MidJourney、Poe、Spotify、YouTube等服务，而且**不收取月租费**，非常适合用户长期使用。
+如果你想成功订阅Claude Pro，就需要准备一张国外的信用卡。然而，由于国外实体信用卡的申请和获取对中国用户来说门槛较高，使用国外虚拟信用卡成为了最简便的解决方案。其中，WildCard野卡虚拟信用卡是目前最安全可靠且功能最强大的虚拟信用卡，不仅支持订阅Claude Pro、ChatGPT Plus、MidJourney、Poe、Spotify、YouTube等服务，而且**不收取月租费**，非常适合用户长期使用。
 
 接下来，我们将手把手教大家如何快速获取一张“**WildCard野卡虚拟信用卡**”！
 
 ### 第一步：访问WildCard野卡官网，并使用+86手机号完成WildCard野卡账号注册。
-
-* WildCard野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
 ![Claude Pro订阅 - Claude能用国内信用卡吗 - 获取WildCard野卡虚拟信用卡第一步：访问WildCard野卡官网，并使用+86手机号完成WildCard野卡账号注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-1.png)
 
@@ -101,7 +99,7 @@ Claude为全球用户提供三种不同类型的账户，分别是Claude免费�
 
 注意：市面上所有虚拟信用卡都需要收取年费，WildCard野卡也不例外。毕竟人家提供了服务，多少都要给点辛苦费，这个也是可以理解的。当然，除了年费之外，WildCard野卡没有其他费用，**也没有月租**。
 
-通过本文提供的链接（<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>）进入WildCard野卡官网，或者使用邀请码"**ANYOFAI**"，可以立减1美金！即1年的年费为10.99美金，2年的年费为15.99美金。
+通过本文提供的链接进入WildCard野卡官网，或者使用邀请码"**ANYOFAI**"，可以立减1美金！即1年的年费为10.99美金，2年的年费为15.99美金。
 
 ![Claude Pro订阅 - Claude能用国内银行卡吗 - 获取WildCard野卡虚拟信用卡第三步：选择服务年限，输入邀请码“ANYOFAI”并点击“下一步”按钮](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-4.png)
 
@@ -138,8 +136,6 @@ OK，截止到目前为止，我们已经成功获取了一张WildCard野卡信�
 当你按照我们前文的操作步骤成功开通了WildCard野卡信用卡（即支付完年费）后，你就可以**免费申请3个海外手机号码**。而且申请方法很简单，只需点击左侧导航栏中的"海外手机号"按钮，并按照系统提示操作即可。
 
 需要提醒大家的是，通过WildCard野卡平台获取的国外手机号码有效期仅为25分钟，因此请尽快使用！此外，在使用WildCard野卡平台提供的国外手机号码注册Claude帐号的过程中，无论遇到任何问题，都可以第一时间联系WildCard野卡官方客服寻求帮助。
-
-* WildCard野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
 ![Claude Pro订阅 - Claude号码怎么解决 - 获取国外手机号码方法一：通过WildCard野卡平台获取](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Yeka-9.png)
 
@@ -217,15 +213,13 @@ OK，当按照以上步骤操作完成后，你就已经成功订阅了Claude Pr
 
 目前，在国内已经完成备案、公司运营超过两年，并且提供24小时在线客服的Claude Pro合租平台，只剩下“2233.AI”、“银河录像局”、“星际放映厅”这几家。
 
-### Claude Pro合租平台（一）：<a href="https://yeka.ai/i/ANYOFAI">2233.ai</a>
+### Claude Pro合租平台（一）：2233.ai
 
 ![最靠谱的Claude Pro合租平台一：2233.ai](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0.png)
 
 “2233.ai”是由WildCard野卡推出的Claude Pro和ChatGPT Plus会员合租平台。通过2233.ai平台合租Claude Pro会员时，你无需准备国外手机号码，也不需要去申请海外虚拟信用卡，更不用为科学上网问题而烦恼。你每月只需支付9.99美元（使用邀请码“ANYOFAI”还可以立减1美金），使用+86手机号在2233.ai平台上注册一个账户，然后就可以畅享Claude Pro和ChatGPT Plus会员的全部功能和服务。
 
 在2233.ai平台上合租Claude Pro会员时，每位用户的对话记录都会被独立存储，账户之间互不影响，有效保障你的隐私安全。而且，你无需自己注册Claude账号，也无需单独订阅Claude Pro会员，更不用担心Claude账号被封等问题。更多关于2233.ai的相关信息，请参考：<a href="https://anyofai.github.io/">WildCard野卡信用卡</a>。
-
-<p align="center"><a href="https://yeka.ai/i/ANYOFAI">立即访问2233.ai</a></p>
 
 ### Claude Pro合租平台（二）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
@@ -289,8 +283,6 @@ OK，当按照以上步骤操作完成后，你就已经成功订阅了Claude Pr
 
 如果你计划开通Claude Pro，建议使用WildCard野卡虚拟信用卡。WildCard野卡虚拟信用卡不仅可以用于开通Claude Pro会员，还适用于ChatGPT Plus、MidJourney等其他国际服务。它操作简单、无月租费，支持长期使用，是当前中国用户开通Claude Pro的最佳支付工具之一。
 
-<p align="center"><a href="https://yeka.ai/i/ANYOFAI">立即访问WildCard野卡信用卡</a></p>
-
 ## Claude如何删除历史记录？
 
 有些用户希望删除Claude的历史记录，以保护个人隐私，或者清理不需要的对话内容。关于如何删除Claude的历史记录，目前可以按照以下步骤操作：
@@ -331,7 +323,7 @@ Claude封号的主要原因包括：
 
 * 注册一个海外Gmail邮箱，或通过“<a href="https://nf.video/BTgSc">银河录像局</a>”购买现成的Gmail邮箱；
 * 通过WildCard野卡平台或<a href="https://sms-activate.io/?ref=3917403">Sms-activate平台</a>获取一个国外手机号码；
-* 申请一张<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡信用卡</a>（使用邀请码“ANYOFAI”可立减1美元），并为其充值至少20美元；
+* 申请一张WildCard野卡信用卡（使用邀请码“ANYOFAI”可立减1美元），并为其充值至少20美元；
 * 用准备好的Gmail邮箱和国外手机号注册Claude账号；
 * 使用WildCard野卡信用卡充值并开通Claude Pro会员。
 
