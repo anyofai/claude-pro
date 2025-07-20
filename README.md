@@ -1,14 +1,20 @@
 # 最新Claude Pro订阅教程：国内如何注册Claude帐号？如何订阅Claude Pro会员？如何购买Claude Pro成品帐号？Claude能用国内信用卡/银行卡吗？
 
-<p align="center">最近更新于：2025年7月12日</p>
+<p align="center">最近更新于：2025年7月20日</p>
 
 <blockquote>
 
-#### 🚨🚨关于“WildCard野卡跑路”的重要说明🚨🚨
+#### 🚨🚨关于“WildCard野卡跑路（被迫停止运营）”的重要说明🚨🚨
 
-很遗憾地通知大家，2025年7月12日中午，Wildcard野卡的官方群突然发布公告称，由于一些不可抗力因素，Wildcard将立即停止全部业务。也就是说，目前国内唯一可以用来给Claude充值、而且我一直觉得非常好用的虚拟信用卡，现在也已经永久停止服务了。从今以后，国内普通用户想要订阅充值Claude Pro会变得更加困难。
+非常遗憾地通知大家，2025年7月12日中午，Wildcard野卡的官方群突然发布公告称，由于一些不可抗力因素，Wildcard将立即停止全部业务。也就是说，目前国内唯一可以用来给Claude充值、而且我一直觉得非常好用的虚拟信用卡，现在也已经永久停止服务了。从今以后，国内用户若想订阅充值Claude Pro会员将会变得更加困难。
 
-我们也在积极寻找可以替代“WildCard野卡”的服务。在此之前，大家可以添加**我们的微信（ VX号：ANYOFAI ）**，我们会为你提供一些订阅充值Claude Pro会员的平替方案。
+目前我们正在积极地寻找可以完美替代“WildCard野卡”的虚拟信用卡！但在此之前，大家可以通过以下两种方式来继续使用Claude Pro会员。
+
+* 方法一：通过专业的第三方平台来合租Claude Pro会员(即Cluade Pro镜像站)！该方式无需科学上网、无需注册Claude帐号、无封号风险、价格低至27元/月，非常适合Claude Pro的轻度用户！更多详情请查看：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>！
+
+* 方法二：通过专业的Claude Pro代充值平台来为你现有的Claude帐号充值，或者直接购买Claude Pro原生独立帐号！该方式可以让你继续使用Claude Pro会员的所有功能和服务，没有任何限制，非常适合Cluade Pro重度用户！更多详情请查看：<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>！
+
+注意：如果你需要代充值Claude Pro会员和购买Claude Pro原生独立帐号，那么可能需要额外支付一点点手续费，这个大家应该也可以理解吧，毕竟人家也是提供了服务的。此外，如果你有自己充值订阅Claude Pro会员的办法，也欢迎大家 + V （ VX号：ANYOFAI ）告诉我们一声，谢谢大家！
 
 </blockquote>
 
