@@ -10,9 +10,9 @@
 
 目前我们正在积极地寻找可以完美替代“WildCard野卡”的虚拟信用卡！但在此之前，大家可以通过以下两种方式来继续使用Claude Pro会员。
 
-* 方法一：通过专业的第三方平台来合租Claude Pro会员（即Cluade Pro镜像站）！该方法无需科学上网，无需注册Claude帐号，也不会有封号的风险，而且价格也非常便宜，每月仅需27元，非常适合Claude Pro轻度用户使用！更多详情请查看：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>！
+* **方法一**：通过专业的第三方平台来合租Claude Pro会员（即Cluade Pro镜像站）！该方法无需科学上网，无需注册Claude帐号，也不会有封号的风险，而且价格也非常便宜，每月仅需27元，非常适合Claude Pro轻度用户使用！更多详情请查看：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>！
 
-* 方法二：通过专业的Claude Pro代充值平台来为你现有的Claude帐号充值，或者直接购买Claude Pro原生独立帐号！该方式可以让你继续使用Claude Pro会员的所有功能和服务，没有任何限制，非常适合Cluade Pro重度用户！更多详情请查看：<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>！
+* **方法二**：通过专业的Claude Pro代充值平台来为你现有的Claude帐号充值，或者直接购买Claude Pro原生独立帐号！该方式可以让你继续使用Claude Pro会员的所有功能和服务，没有任何限制，非常适合Cluade Pro重度用户！更多详情请查看：<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>！
 
 注意：如果你需要代充值Claude Pro会员和购买Claude Pro原生独立帐号，那么可能需要额外支付一点点手续费，这个大家应该也可以理解吧，毕竟人家也是提供了服务的。此外，如果你有自己充值订阅Claude Pro会员的办法，也欢迎大家 + V （ VX号：ANYOFAI ）告诉我们一声，谢谢大家！
 
