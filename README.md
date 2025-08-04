@@ -237,14 +237,6 @@ OK，当按照以上步骤操作完成后，你就已经成功订阅了Claude Pr
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅</a></p>
 
-### Claude Pro合租平台（三）：2233.ai
-
-![最靠谱的Claude Pro合租平台三：2233.ai](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0.png)
-
-“2233.ai”是由WildCard野卡推出的Claude Pro和ChatGPT Plus会员合租平台。通过2233.ai平台合租Claude Pro会员时，你无需准备国外手机号码，也不需要去申请海外虚拟信用卡，更不用为科学上网问题而烦恼。你每月只需支付9.99美元（使用邀请码“ANYOFAI”还可以立减1美金），使用+86手机号在2233.ai平台上注册一个账户，然后就可以畅享Claude Pro和ChatGPT Plus会员的全部功能和服务。
-
-在2233.ai平台上合租Claude Pro会员时，每位用户的对话记录都会被独立存储，账户之间互不影响，有效保障你的隐私安全。而且，你无需自己注册Claude账号，也无需单独订阅Claude Pro会员，更不用担心Claude账号被封等问题。
-
 ## Claude帐号购买流程：国内如何购买Claude Pro（成品）帐号？
 
 对于中国大陆的用户来说，注册Claude账号其实挺麻烦的。你不仅需要准备Gmail邮箱和国外手机号，想要升级到Claude Pro会员，还得办一张国外虚拟信用卡。也就是说，无论是注册普通账号还是开通Pro会员，整个流程都比较繁琐，尤其对新手来说，难度更大。所以，很多人更愿意直接购买Claude Pro成品账号，这样就能省去不少麻烦。
