@@ -1,6 +1,6 @@
 # 最新Claude Pro订阅教程：国内如何注册Claude帐号？如何订阅Claude Pro会员？如何购买Claude Pro成品帐号？Claude能用国内信用卡/银行卡吗？
 
-<p align="center">最近更新于：2025年7月22日</p>
+<p align="center">最近更新于：2025年8月4日</p>
 
 <blockquote>
 
@@ -334,8 +334,6 @@ Claude封号的主要原因包括：
 * 使用WildCard野卡信用卡充值并开通Claude Pro会员。
 
 需要特别提醒的是，无论是在注册Claude账号还是为Claude Pro充值时，务必使用稳定的美国节点，避免频繁切换IP地址或使用不安全的科学上网工具，从而降低Claude账号被封禁的风险。
-
-更多关于国内购买Claude Pro帐号相关的问题，请加我们微信（微信号：anyofai ）（注意：加好友时请注明来意！）。
 
 ## 国内购买Claude Pro帐号相关的其他文章
 
