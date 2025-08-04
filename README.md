@@ -10,7 +10,7 @@
 
 目前我们正在积极地寻找可以完美替代“WildCard野卡”的虚拟信用卡！但在此之前，大家可以通过以下两种方式来继续使用Claude Pro会员。
 
-* **首选方案**：如果你还没有Claude账号，那么可以直接购买一个Claude Pro原生独立账号；如果你已经有Claude账号了，那么可以选择为你现有的Claude账号代充值。这样你就可以继续使用Claude Pro会员的所有功能和服务，没有任何限制，非常适合Claude Pro的重度用户。更多详情请查看：<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro充值</a>！
+* **首选方案**：如果你还没有Claude账号，那么可以直接**购买一个Claude Pro原生独立账号**；如果你已经有Claude账号了，那么可以选择**为你现有的Claude账号代充值**。这样你就可以继续使用Claude Pro会员的所有功能和服务，没有任何限制，非常适合Claude Pro的重度用户。更多详情请查看：<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro充值</a>！
 
 * **备选方案**：如果你使用Claude Pro会员的频率不是很高，或者想以更优惠的价格来体验Claude Pro会员的强大功能，那么也可以选择与其他人一起拼车合租Claude Pro会员。更多详情请查看：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>！
 
