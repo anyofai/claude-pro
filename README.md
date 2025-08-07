@@ -16,7 +16,7 @@
 
 注意：如果你需要代充值Claude Pro会员和购买Claude Pro原生独立帐号，那么可能需要额外支付一点点手续费，这个大家应该也可以理解吧，毕竟人家也是提供了服务的。
 
-此外，如果你觉得“购买Claude Pro原生独立帐号”或者“Claude Pro代充值”的价格太贵，那么你也可以选择使用ChatGPT Plus会员！目前<a href="https://github.com/anyofai/chatgpt-plus-hezu">购买ChatGPT Plus帐号</a>(原生独立帐号)仅需152元/月，<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>价格低至133元/月！
+此外，如果你觉得“Claude Pro原生独立帐号”和“Claude Pro代充值”的价格太贵，你也可以选择使用ChatGPT Plus会员！目前<a href="https://github.com/anyofai/chatgpt-plus-hezu">购买ChatGPT Plus帐号</a>(原生独立帐号)仅需152元/月，<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>价格低至133元/月！
 
 </blockquote>
 
