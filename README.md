@@ -1,6 +1,6 @@
 # 最新Claude Pro订阅教程：国内如何注册Claude帐号？如何订阅Claude Pro会员？如何购买Claude Pro成品帐号？Claude能用国内信用卡/银行卡吗？
 
-<p align="center">最近更新于：2025年8月4日</p>
+<p align="center">最近更新于：2025年8月7日</p>
 
 <blockquote>
 
@@ -14,7 +14,7 @@
 
 * **备选方案**：如果你使用Claude Pro会员的频率不是很高，或者想以更优惠的价格来体验Claude Pro会员的强大功能，那么也可以选择与其他人一起拼车合租Claude Pro会员。更多详情请查看：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>！
 
-注意：如果你需要代充值Claude Pro会员和购买Claude Pro原生独立帐号，那么可能需要额外支付一点点手续费，这个大家应该也可以理解吧，毕竟人家也是提供了服务的。此外，如果你有自己充值订阅Claude Pro会员的办法，也欢迎大家 + V （ VX号：ANYOFAI ）告诉我们一声，谢谢大家！
+注意：如果你需要代充值Claude Pro会员和购买Claude Pro原生独立帐号，那么可能需要额外支付一点点手续费，这个大家应该也可以理解吧，毕竟人家也是提供了服务的。此外，如果你觉得“购买Claude Pro原生独立帐号”或者“Claude Pro代充值”的价格太贵，那么你也可以选择使用ChatGPT Plus会员！目前<a href="https://github.com/anyofai/chatgpt-plus-hezu">购买ChatGPT Plus帐号</a>(原生独立帐号)仅需152元/月，<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>价格低至133元/月！
 
 </blockquote>
 
