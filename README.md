@@ -14,7 +14,7 @@
 
 * **备选方案**：如果你使用Claude Pro会员的频率不是很高，或者想以更优惠的价格来体验Claude Pro会员的强大功能，那么也可以选择与其他人一起拼车合租Claude Pro会员。更多详情请查看：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>！
 
-重要提示：银河录像局也提供Claude Code镜像服务，该服务无需翻墙，也没有封号风险，价格比原版更便宜。大家购买Claude Code镜像服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，可以有效节省时间和精力，大幅提升编程效率。现在进入银河录像局官网购买Claude Code镜像服务的话，还可以直接领取一张“Claude Code体验天卡”，免费试用一天！更多详情请查看：国内使用Claude Code教程！
+重要提示：银河录像局也提供Claude Code镜像服务，该服务无需翻墙，也没有封号风险，价格比原版更便宜。大家购买Claude Code镜像服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，可以有效节省时间和精力，大幅提升编程效率。现在购买Claude Code镜像服务的话，还可以直接领取一张“Claude Code体验天卡”，免费试用一天！更多详情请查看：国内使用Claude Code教程！
 
 此外，如果你觉得“Claude Pro原生独立帐号”和“Claude Pro代充值”的价格太贵，你也可以选择使用ChatGPT Plus会员！目前<a href="https://github.com/anyofai/chatgpt-plus-hezu">购买ChatGPT Plus帐号</a>(原生独立帐号)仅需152元/月，<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>价格低至133元/月！
 
