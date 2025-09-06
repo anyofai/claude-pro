@@ -24,7 +24,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 ## 方法一、拼车合租Claude Pro会员（适合轻度用户）
 
-很多中国大陆用户可能因为无法解决科学上网的问题，或者觉得每月20美金的Claude Pro订阅费用太高，或者担心Claude账号被封等原因，想要寻找Claude Pro合租服务。而在众多的Claude Pro合租服务商中，我们最推荐的是“<a href="https://nf.video/BTgSc">银河录像局</a>”。
+很多用户可能因为无法解决科学上网的问题，或者觉得每月20美金的Claude Pro订阅费用太高，或者担心Claude账号被封等原因，想要寻找Claude Pro合租服务。而在众多的Claude Pro合租服务商中，我们最推荐的是“<a href="https://nf.video/BTgSc">银河录像局</a>”。
 
 银河录像局是杭州崇宇信息科技有限公司旗下的合租平台，公司成立于2019年，至今已成功运营六年多，并且具备完善的ICP备案（浙ICP备2022036459号）和互联网经营许可证（浙B2-20230847）。多年来，银河录像局一直专注于各类流媒体（如Netflix、Disney+、HBO Max、Spotify等）和热门AI工具（包括ChatGPT Plus、Claude Pro、Midjourney、Poe、Grok等）的合租服务，拥有丰富的行业经验和良好的用户口碑。
 
