@@ -10,7 +10,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 <blockquote>
 
-* **方法一、拼车合租Claude Pro会员（适合轻度用户）**：如果你使用Claude Pro会员的频率不是很高，或者你解决不了科学上网的问题，又或者你经常遇到Claude帐号被封的情况，亦或者想以更优惠的价格来体验Claude Pro会员的强大功能，那么可以选择拼车合租Claude Pro会员。这种方式**无需科学上网**，**无需注册Claude帐号**，**也绝不会有封号的风险**，而且价格比较便宜（**8元起**），非常适合Claude Pro轻度用户使用。更多详情请查看：<a href="https://github.com/anyofai/claude-pro?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%80%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9Fclaude-pro%E4%BC%9A%E5%91%98%E9%80%82%E5%90%88%E8%BD%BB%E5%BA%A6%E7%94%A8%E6%88%B7">Claude Pro合租</a>！
+* **方法一、拼车合租Claude Pro会员（适合轻度用户）**：如果你使用Claude Pro的频率不是很高，或者你解决不了科学上网的问题，又或者你经常遇到Claude帐号被封的情况，亦或者想以更优惠的价格来体验Claude Pro的强大功能，那么可以选择拼车合租Claude Pro会员。这种方式**无需科学上网**，**无需注册Claude帐号**，**也绝不会有封号的风险**，而且价格比较便宜（**8元起**），非常适合Claude Pro轻度用户。更多详情请查看：<a href="https://github.com/anyofai/claude-pro?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%80%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9Fclaude-pro%E4%BC%9A%E5%91%98%E9%80%82%E5%90%88%E8%BD%BB%E5%BA%A6%E7%94%A8%E6%88%B7">Claude Pro合租</a>！
 
 * **方法二、购买Claude Pro原生帐号（适合重度用户）**：如果你还没有注册Claude账号，或者不想自己动手订阅Claude Pro会员的话，那么也可以通过专业平台直接购买Claude Pro原生独立账号，账号拿到手之后就可以直接登录使用，不仅省去了各种繁琐的流程，而且没有任何限制，非常适合Claude Pro重度用户。更多详情请查看：<a href="https://github.com/anyofai/claude-pro?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%BA%8C%E8%B4%AD%E4%B9%B0claude-pro%E5%8E%9F%E7%94%9F%E5%B8%90%E5%8F%B7%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">购买Claude Pro账号</a>！
 
