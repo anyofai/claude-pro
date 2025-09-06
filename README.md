@@ -240,13 +240,13 @@ Claude目前为全球用户提供三种不同类型的账号：Claude免费版�
 
 综合前文的介绍，中国用户想要开通Claude Pro会员，直接通过官方渠道操作的难度非常高。主要原因在于Anthropic尚未向中国用户开放服务，不仅注册Claude账号需要准备国外手机号和稳定的科学上网工具，还必须绑定国外信用卡才能完成Claude Pro订阅。因此，对于大多数国内用户来说，更现实的做法是借助专业的第三方平台来完成Claude Pro的购买和使用。目前常见的几种方式包括：
 
-* 方法一、**拼车合租Claude Pro账号**：这种方式无需科学上网，无需注册Claude账号，也没有封号风险，而且价格非常便宜，非常适合轻度使用者，可以快速体验Claude Pro的核心功能。
+* 方法一、**<a href="https://github.com/anyofai/claude-pro?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%80%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9Fclaude-pro%E4%BC%9A%E5%91%98%E9%80%82%E5%90%88%E8%BD%BB%E5%BA%A6%E7%94%A8%E6%88%B7">拼车合租Claude Pro账号</a>**：这种方式无需科学上网，无需注册Claude账号，也没有封号风险，而且价格非常便宜，非常适合轻度使用者，可以快速体验Claude Pro的核心功能。
 
-* 方法二、**购买Claude Pro原生账号**：用户完成购买后即可直接登录使用，账号稳定性高，也没有功能限制，适合对Claude依赖度较高的重度用户。
+* 方法二、**<a href="https://github.com/anyofai/claude-pro?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%BA%8C%E8%B4%AD%E4%B9%B0claude-pro%E5%8E%9F%E7%94%9F%E5%B8%90%E5%8F%B7%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">购买Claude Pro原生账号</a>**：用户完成购买后即可直接登录使用，账号稳定性高，也没有功能限制，适合对Claude依赖度较高的重度用户。
 
-* 方法三、**为你的Claude账号代充值**：如果你已经注册了Claude账号，但无法自行完成Claude Pro订阅，可以选择代充值服务，由专业平台帮你完成订阅，既省时又省心。
+* 方法三、**<a href="https://github.com/anyofai/claude-pro?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%89%E4%B8%BA%E4%BD%A0%E7%8E%B0%E6%9C%89%E7%9A%84claude%E4%BB%A3%E5%85%85%E5%80%BC%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">为你的Claude账号代充值</a>**：如果你已经注册了Claude账号，但无法自行完成Claude Pro订阅，可以选择代充值服务，由专业平台帮你完成订阅，既省时又省心。
 
-* 方法四、**使用Claude Code镜像服务**：该服务无需翻墙，也没有封号风险，价格比原版更便宜，非常适合经常写代码的程序员，不仅能够有效节省时间和精力，还能大幅提升编程效率。
+* 方法四、**<a href="https://github.com/anyofai/claude-pro?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E5%9B%9B%E4%BD%BF%E7%94%A8claude-code%E9%95%9C%E5%83%8F%E6%9C%8D%E5%8A%A1%E9%80%82%E5%90%88%E7%A8%8B%E5%BA%8F%E5%91%98">使用Claude Code镜像服务</a>**：该服务无需翻墙，也没有封号风险，价格比原版更便宜，非常适合经常写代码的程序员，不仅能够有效节省时间和精力，还能大幅提升编程效率。
 
 通过这些方式，即使你没有国外信用卡和海外手机号，也依然能够顺利开通Claude Pro会员。无论是写作、编程、科研还是其他专业场景，都能充分发挥Claude的强大功能。选择合适的Claude Pro购买方式，不仅能省去注册与支付的繁琐步骤，还能确保账号的安全和稳定使用。
 
