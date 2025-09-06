@@ -30,7 +30,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 在银河录像局合租Claude Pro会员时，你无需自己注册Claude账号，也不用单独订阅Claude Pro会员，更不用为科学上网发愁，同时也无需担心Claude账号被封。银河录像局的价格也十分实惠，Claude Pro镜像试用一天卡只要8元，镜像月卡也仅需99元，让你能够轻松、低门槛地体验Claude Pro的全部功能和服务。
 
-![](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E5%90%88%E7%A7%9FClaude%20Pro%E4%BC%9A%E5%91%98-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80.png)
+![Claude Pro订阅教程：通过银河录像局合租Claude Pro会员](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E5%90%88%E7%A7%9FClaude%20Pro%E4%BC%9A%E5%91%98-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80.png)
 
 值得注意的是，银河录像局也提供ChatGPT Plus合租（27元/月）、ChatGPT Plus账号购买（152元/月）、ChatGPT Plus代充值（133元/月）等服务，用户可以根据自己的需求进行选择。此外，关于通过银河录像局合租Claude Pro会员的操作步骤，请参见：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>。
 
@@ -44,7 +44,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 星际放映厅是一家位于杭州的专业流媒体和AI工具合租平台，主打“现号秒发、安全稳定、价格实惠”。平台已经在相关部门完成备案（备案号：浙ICP备2023017856号），用户不用担心遇到收钱不办事或者卷款跑路的情况，安全性和稳定性都有保障。
 
-![](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
+![Claude Pro开通教程：通过星际放映厅购买Claude Pro帐号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
 值得注意的是，星际放映厅会为你提供一个已经完成订阅升级的Claude Pro原生独立账号，你拿过来就可以直接登录使用，没有任何的限制。而且，星际放映厅还提供24小时在线客服，遇到任何问题都能及时解决。
 
@@ -54,7 +54,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 你除了可以通过星际放映厅直接购买Claude Pro账号之外，也可以通过星际放映厅为你现有的Claude账号代充值，这样你就可以继续使用之前的Claude账号，并且保留原有账号中的所有设置，非常适合Claude Pro重度用户。同时，你可以使用Claude Pro的所有功能和服务，没有任何限制。现在使用星际放映厅优惠码“ANYOFAI”，还可以享受九折优惠！
 
-![](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
+![Claude Pro订阅教程：通过星际放映厅为你现有Claude帐号代充值](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
 当你按照系统提示完成付款后，需要主动联系星际放映厅的24小时在线客服，并提交你的Claude账号和密码，由星际放映厅技术人员帮你完成Claude代充值。更多详细信息请参考：<a href="https://github.com/anyofai/claude-pro-recharge">Claude代充值</a>。
 
@@ -68,7 +68,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 * Claude Code标准版：399元/月
 * Claude Code专业版：799元/月
 
-![](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Code%E9%95%9C%E5%83%8F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80.png)
+![Claude Pro开通教程：通过银河录像局来使用Claude Code服务](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Code%E9%95%9C%E5%83%8F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80.png)
 
 重要提示：现在点击下面的链接进入银河录像局官网，还可以免费领取一张“Claude Code体验天卡”。这样一来，大家就能先免费试用Claude Code一天，如果觉得好用，再购买Claude Code标准版或Claude Code专业版等服务。
 
@@ -92,25 +92,25 @@ OK，接下来你只需按照我们的操作步骤一步一步执行，就能轻
 
 注意：你也可以使用现有的Google账号授权登录，直接点击“Continue with Google”即可。
 
-![](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-1.png)
+![Claude Pro订阅教程，注册Claude账号第一步：打开Claude官网，输入你的Gmail邮箱并点击“Continue with email”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-1.png)
 
 ### 第二步：输入邮箱验证码并点击“Verify Email Address”。
 
 打开你的电子邮箱，找到一封来自Anthropic的邮件，复制其中的验证码，将其粘贴到下方的输入框中，然后点击“Verify Email Address”按钮。
 
-![](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-2.png)
+![Claude Pro开通教程，注册Claude账号第二步：输入邮箱验证码并点击“Verify Email Address”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-2.png)
 
 ### 第三步：输入国外手机号码并点击“Send Verification Code”。
 
 注意：本文下方会手把手地教大家如何通过“<a href="https://sms-activate.io/?ref=3917403">Sms-activate</a>”这个专业的接码平台获取一个国外手机号！当你拿到国外手机号之后，只需将其粘贴到下方的输入框中，然后点击“Send Verification Code”按钮。
 
-![](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-3.png)
+![Claude Pro订阅教程，注册Claude账号第三步：输入国外手机号码并点击“Send Verification Code”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-3.png)
 
 ### 第四步：获取手机验证码并点击“Verify & Create Account”。
 
 这里需要先返回Sms-activate接码平台，并复制接收到的验证码，粘贴到下方的输入框中，点击“Verify & Create Account”按钮，即可完成手机验证。
 
-![](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-4.png)
+![Claude Pro开通教程，注册Claude账号第四步：获取手机验证码并点击“Verify & Create Account”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-4.png)
 
 OK，当你完成以上所有操作步骤后，Claude账号就注册成功了。接下来，你可以正式开始体验Claude提供的各项强大功能。如果你希望解锁更多高级功能，可以通过<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>为Claude账号代充值，从而畅享Claude Pro会员的全部功能和服务。
 
@@ -124,33 +124,33 @@ Sms-activate是一家来自于俄罗斯的专业接码平台，支持接收Claud
 
 * Sms-activate官网：<a href="https://sms-activate.io/?ref=3917403">https://sms-activate.io/?ref=3917403</a>
 
-![](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-1.png)
+![Claude Pro订阅教程，获取注册Claude帐号所需的手机帐号第一步：打开Sms-activate官网，并将网站语言切换为“中文”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-1.png)
 
 ### 第二步：点击官网右上角的“注册”按钮并完成账号注册。
 
-![](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-2.png)
+![Claude Pro开通教程，获取注册Claude帐号所需的手机帐号第二步：点击官网右上角的“注册”按钮并完成账号注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-2.png)
 
 ### 第三步：点击右上角的“充值”按钮，并使用支付宝充值2美元。
 
-![](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-3.png)
+![Claude Pro订阅教程，获取注册Claude帐号所需的手机帐号第三步：点击右上角的“充值”按钮，并使用支付宝充值2美元](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-3.png)
 
 ### 第四步：在官网左侧的搜索框中输入“Claude”。
 
-![](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-4.png)
+![Claude Pro开通教程，获取注册Claude帐号所需的手机帐号第四步：在官网左侧的搜索框中输入“Claude”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-4.png)
 
 ### 第五步：选择一个目标国家的手机号并按照系统提示完成购买。
 
-![](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-5.png)
+![Claude Pro订阅教程，获取注册Claude帐号所需的手机帐号第五步：选择一个目标国家的手机号并按照系统提示完成购买](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-5.png)
 
 ### 第六步：点击导航栏中的“激活”选项，即可查看已购买的手机号。
 
-![](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-6.png)
+![Claude Pro开通教程，获取注册Claude帐号所需的手机帐号第六步：点击导航栏中的“激活”选项，即可查看已购买的手机号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-6.png)
 
 ### 第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。
 
 注意：当你在Claude官网上点击了“Send Verification Code”按钮后，需要返回Sms-activate平台等待验证码。
 
-![](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-7.png)
+![Claude Pro订阅教程，获取注册Claude帐号所需的手机帐号第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-7.png)
 
 最后需要提醒大家的是，如果你通过Sms-activate平台购买的国外手机号未成功接收到验证码，Sms-activate会自动退还支付金额，无需担心资金损失。此外，该平台以俄罗斯卢布计价，但中国用户充值时会按照美元结算。由于国外手机号价格非常便宜，我们建议大家每次只充值1-2美元（约合100多卢布），不要一次性充值太多。
 
