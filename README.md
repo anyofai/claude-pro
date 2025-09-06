@@ -108,7 +108,7 @@ OK，接下来你只需按照我们的操作步骤一步一步执行，就能轻
 
 ### 第四步：获取手机验证码并点击“Verify & Create Account”。
 
-这里需要先返回Sms-activate接码平台，并复制接收到的验证码，粘贴到下方的输入框中，点击“Verify & Create Account”按钮，即可完成手机验证。
+注意：这里需要先返回Sms-activate接码平台，并复制接收到的验证码。然后将验证码粘贴到下方的输入框中，点击“Verify & Create Account”按钮，即可完成手机验证。
 
 ![Claude Pro开通教程，注册Claude账号第四步：获取手机验证码并点击“Verify & Create Account”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-4.png)
 
