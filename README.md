@@ -32,7 +32,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 ![Claude Pro订阅教程：通过银河录像局合租Claude Pro会员](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E5%90%88%E7%A7%9FClaude%20Pro%E4%BC%9A%E5%91%98-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80.png)
 
-值得注意的是，银河录像局也提供ChatGPT Plus合租（27元/月）、ChatGPT Plus账号购买（171元/月）、ChatGPT Plus代充值（166元/月）等服务，大家可以根据自己的需求进行选择。更多关于合租Claude Pro会员的操作步骤，请参见：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>。
+值得注意的是，银河录像局也提供ChatGPT Plus合租（27元/月）、ChatGPT Plus账号购买（171元/月）、ChatGPT Plus代充值（166元/月）等服务，大家可以根据自己的需求进行选择。关于通过银河录像局来合租Claude Pro会员的操作步骤，请参见：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网<a/></p>
 
