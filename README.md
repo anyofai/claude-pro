@@ -16,7 +16,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 * **方法三、为你现有的Claude代充值（适合重度用户）**：如果你已经有Claude账号了，那么也可以选择通过专业平台为你现有的Claude账号代充值，这样不仅可以保留你原来Claude账号中的所有设置和使用历史记录，而且你也可以继续使用Claude Pro会员的所有功能和服务，没有任何限制，非常适合Claude Pro的重度用户。更多详情请查看：<a href="https://github.com/anyofai/claude-pro?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%89%E4%B8%BA%E4%BD%A0%E7%8E%B0%E6%9C%89%E7%9A%84claude%E4%BB%A3%E5%85%85%E5%80%BC%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">Claude Pro代充值</a>！
 
-* **方法四：使用Claude Code镜像服务（适合程序员）**：该服务**无需科学上网，也没有封号风险，价格比原版更便宜**，大家在购买Claude Code镜像服务后，只需按照平台提供的教程操作，大约五分钟就可以开始使用Claude Code，非常适合经常写代码的程序员，不仅能够有效节省时间和精力，还能大幅提升编程效率。更多详情请查看：<a href="https://github.com/anyofai/claude-pro?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E5%9B%9B%E4%BD%BF%E7%94%A8claude-code%E9%95%9C%E5%83%8F%E6%9C%8D%E5%8A%A1%E9%80%82%E5%90%88%E7%A8%8B%E5%BA%8F%E5%91%98">Claude Code教程</a>！
+* **方法四：使用Claude Code镜像服务（适合程序员）**：Claude Code镜像服务**无需科学上网，也没有封号风险，价格比原版更便宜**，大家在购买Claude Code镜像服务后，只需按照平台提供的教程操作，大约五分钟就可以开始使用Claude Code，非常适合经常写代码的程序员，不仅能够有效节省时间和精力，还能大幅提升编程效率。更多详情请查看：<a href="https://github.com/anyofai/claude-pro?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E5%9B%9B%E4%BD%BF%E7%94%A8claude-code%E9%95%9C%E5%83%8F%E6%9C%8D%E5%8A%A1%E9%80%82%E5%90%88%E7%A8%8B%E5%BA%8F%E5%91%98">Claude Code教程</a>！
 
 </blockquote>
 
