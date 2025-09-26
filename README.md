@@ -65,8 +65,9 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 如果你也是一个码农，并且在工作中需要经常使用Claude Code的话，那么你也可以通过银河录像局购买Claude Code中转服务。该服务无需翻墙，也没有封号风险，价格比原版更便宜。大家在购买Claude Code中转服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，不仅能够有效节省时间和精力，还能大幅提升编程效率。银河录像局提供三种服务套餐，每个套餐都可以使用Claude 4 Sonnet和Claude 4.1 Opus等大模型。
 
 * Claude Code体验天卡：9.9元
-* Claude Code标准版：399元/月
-* Claude Code专业版：799元/月
+* Claude Code基础版：159元/月
+* Claude Code标准版：299元/月
+* Claude Code专业版：599元/月
 
 ![Claude Pro开通教程：通过银河录像局来使用Claude Code服务](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Code%E9%95%9C%E5%83%8F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80.png)
 
