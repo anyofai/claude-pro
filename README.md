@@ -69,7 +69,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 * Claude Code标准版：299元/月
 * Claude Code专业版：599元/月
 
-![Claude Pro开通教程：通过银河录像局来使用Claude Code服务](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Code%E9%95%9C%E5%83%8F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80.png)
+![Claude Pro开通教程：通过银河录像局来使用Claude Code服务](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Code%E9%95%9C%E5%83%8F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
 
 重要提示：现在点击下面的链接进入银河录像局官网，还可以免费领取一张“Claude Code体验天卡”。这样一来，大家就能先免费试用Claude Code一天，如果觉得好用，再购买Claude Code标准版或Claude Code专业版等服务。
 
