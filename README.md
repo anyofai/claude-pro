@@ -1,6 +1,6 @@
 # 最新Claude Pro订阅教程：如何注册Claude账号？如何订阅Claude Pro会员？如何购买Claude Pro原生独立账号？如何为你现有的Claude充值？(含国内使用Claude Code教程)
 
-<p align="center">最近更新于：2025年10月12日</p>
+<p align="center">最近更新于：2025年10月18日</p>
 
 ![最新Claude Pro订阅教程：如何注册Claude账号？如何订阅Claude Pro会员？如何购买Claude Pro原生独立账号？如何为你现有的Claude充值？(含国内使用Claude Code教程)](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
@@ -255,19 +255,20 @@ Claude目前为全球用户提供三种不同类型的账号：Claude免费版�
 
 ## 国内购买Claude Pro帐号相关的其他文章
 
-* <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>：详细介绍如何获取国外虚拟信用卡，以及支付宝开通ChatGPT Plus会员的完整步骤！
-* <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：涵盖Midjourney账号注册和会员订阅的详细操作步骤，附带Midjourney使用教程！
-* <a href="https://github.com/anyofai/poe">Poe订阅</a>：包含国内订阅POE会员的详细操作步骤，以及如何购买POE合租账号的指南！
-* <a href="https://github.com/anyofai/x-twitter">Twitter X订阅</a>：提供订阅Twitter X的详细操作步骤，以及Grok 4的使用指南！
+* <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>：如何购买/合租/代充ChatGPT Plus会员？国内如何使用GPT-5-Codex？
+* <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立帐号？如何代充Midjourney会员？
+* <a href="https://github.com/anyofai/poe">Poe订阅</a>：如何购买Poe原生独立账号？支持GPT-5、Claude Opus/Sonnet 4、Grok-4、Gemini-2.5 Pro等大模型！
+* <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok帐号？如何代充SuperGrok会员？
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-4.5、DeepSeek-R1、Grok-4和Gemini-2 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5、DeepSeek-R1、Grok-4和Gemini-2.5 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
-* <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保！每月仅需20元！
+* <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保，价格低至8元起！
 * <a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需15元！
 * <a href="https://github.com/anyofai/spotify-hezu">Spotify合租</a>：官方渠道采购，品质有保障！可享Spotify Premium所有权益！每月仅需13.5元！
 
-* <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：最新的ChatGPT账号注册详细操作步骤，以及ChatGPT成品账号购买指南！
+* <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：最新的ChatGPT账号注册详细操作步骤，以及ChatGPT账号购买指南！
 * <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：推荐最稳定可靠的ChatGPT Plus代充值平台，价格优惠，信誉有保障。
-* <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro成品账号！
+* <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro原生账号！
+* <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会推荐五个国外付费视频网站、五个国外免费视频网站和十个海外免费电影网站！
