@@ -10,9 +10,9 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 <blockquote>
 
-* **方法一、拼车合租Claude Pro会员（适合轻度用户）**：如果你使用Claude Pro的频率不是很高，或者解决不了科学上网的问题，又或者经常遇到Claude帐号被封的情况，亦或者想以更优惠的价格来体验Claude Pro的强大功能，那么可以选择合租Claude Pro会员。这种方式**无需科学上网**，**无需注册Claude帐号**，**也绝对不会有封号的风险**，**价格也很便宜（8元起）**，非常适合Claude Pro轻度用户。查看更多详情：<a href="https://github.com/anyofai/claude-pro?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%80%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9Fclaude-pro%E4%BC%9A%E5%91%98%E9%80%82%E5%90%88%E8%BD%BB%E5%BA%A6%E7%94%A8%E6%88%B7">Claude Pro合租</a>！
+* **方法一、拼车合租Claude Pro会员（适合轻度用户）**：如果你使用Claude Pro的频率不是很高，或者解决不了科学上网的问题，又或者经常遇到Claude账号被封的情况，亦或者想以更优惠的价格来体验Claude Pro的强大功能，那么可以选择合租Claude Pro会员。这种方式**无需科学上网**，**无需注册Claude账号**，**也绝对不会有封号的风险**，**价格也很便宜（8元起）**，非常适合Claude Pro轻度用户。查看更多详情：<a href="https://github.com/anyofai/claude-pro?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%80%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9Fclaude-pro%E4%BC%9A%E5%91%98%E9%80%82%E5%90%88%E8%BD%BB%E5%BA%A6%E7%94%A8%E6%88%B7">Claude Pro合租</a>！
 
-* **方法二、购买Claude Pro原生帐号（适合重度用户）**：如果你没有Claude账号，或者不想自己动手订阅Claude Pro会员，那么可以通过第三方平台直接购买一个Claude Pro原生独立账号。这种方式不需要你自己注册Claude账号，也不需要折腾国外信用卡，第三方平台会直接提供一个已经完成订阅的Claude Pro账号，你拿过来就可以直接使用，没有任何限制，非常适合Claude Pro重度用户。查看更多详情：<a href="https://github.com/anyofai/claude-pro?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%BA%8C%E8%B4%AD%E4%B9%B0claude-pro%E5%8E%9F%E7%94%9F%E5%B8%90%E5%8F%B7%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">购买Claude Pro账号</a>！
+* **方法二、购买Claude Pro原生账号（适合重度用户）**：如果你没有Claude账号，或者不想自己动手订阅Claude Pro会员，那么可以通过第三方平台直接购买一个Claude Pro原生独立账号。这种方式不需要你自己注册Claude账号，也不需要折腾国外信用卡，第三方平台会直接提供一个已经完成订阅的Claude Pro账号，你拿过来就可以直接使用，没有任何限制，非常适合Claude Pro重度用户。查看更多详情：<a href="https://github.com/anyofai/claude-pro?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%BA%8C%E8%B4%AD%E4%B9%B0claude-pro%E5%8E%9F%E7%94%9F%E5%B8%90%E5%8F%B7%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">购买Claude Pro账号</a>！
 
 * **方法三、为你现有的Claude代充值（适合重度用户）**：如果你已经有Claude账号了，那么也可以选择通过专业平台为你现有的Claude账号代充值，这样不仅可以保留你原来Claude账号中的所有设置和使用历史记录，而且你也可以继续使用Claude Pro会员的所有功能和服务，没有任何限制，非常适合Claude Pro的重度用户。更多详情请查看：<a href="https://github.com/anyofai/claude-pro?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%89%E4%B8%BA%E4%BD%A0%E7%8E%B0%E6%9C%89%E7%9A%84claude%E4%BB%A3%E5%85%85%E5%80%BC%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">Claude Pro代充值</a>！
 
@@ -36,7 +36,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网<a/></p>
 
-## 方法二、购买Claude Pro原生帐号（适合重度用户）
+## 方法二、购买Claude Pro原生账号（适合重度用户）
 
 对于中国大陆用户来说，注册Claude账号其实挺麻烦的。你不仅需要准备Gmail邮箱和国外手机号，想要升级到Claude Pro会员，还得办理一张国外虚拟信用卡。也就是说，无论是注册Claude普通账号还是开通Claude Pro会员，整个流程都比较繁琐，尤其对新手来说难度更大。所以，很多人更愿意直接购买Claude Pro成品账号，这样就能省去不少麻烦。
 
@@ -44,7 +44,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 星际放映厅是一家位于杭州的专业流媒体和AI工具合租平台，主打“现号秒发、安全稳定、价格实惠”。平台已经在相关部门完成备案（备案号：浙ICP备2023017856号），用户不用担心遇到收钱不办事或者卷款跑路的情况，安全性和稳定性都有保障。
 
-![Claude Pro开通教程：通过星际放映厅购买Claude Pro帐号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
+![Claude Pro开通教程：通过星际放映厅购买Claude Pro账号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
 值得注意的是，星际放映厅会为你提供一个已经完成订阅升级的Claude Pro原生独立账号，你拿过来就可以直接登录使用，没有任何的限制。而且，星际放映厅还提供24小时在线客服，遇到任何问题都能及时解决。
 
@@ -54,7 +54,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 你除了可以通过星际放映厅直接购买Claude Pro账号之外，也可以通过星际放映厅为你现有的Claude账号代充值，这样你就可以继续使用之前的Claude账号，并且保留原有账号中的所有设置，非常适合Claude Pro重度用户。同时，你可以使用Claude Pro的所有功能和服务，没有任何限制。现在使用星际放映厅优惠码“ANYOFAI”，还可以享受九折优惠！
 
-![Claude Pro订阅教程：通过星际放映厅为你现有Claude帐号代充值](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
+![Claude Pro订阅教程：通过星际放映厅为你现有Claude账号代充值](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
 值得注意的是，当按照系统提示完成付款之后，你需要主动联系星际放映厅的24小时在线客服，并提交你的Claude账号和密码，由星际放映厅技术人员帮你完成Claude代充值。更多详细信息请参考：<a href="https://github.com/anyofai/claude-pro-recharge">Claude代充值</a>。
 
@@ -81,7 +81,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 * **一个干净的Gmail邮箱**：如果你还没有Gmail邮箱，那么可以自己动手注册一个，非常简单；如果你不想自己注册，也可以通过“<a href="https://nf.video/BTgSc">银河录像局</a>”这个平台购买一个现成的Gmail账号（20元/个）。
 
-* **一个有效的国外手机号**：由于注册Claude帐号需要验证手机号，而国内的+86手机号又无法用于验证，所以你必须准备一个能够接收Claude验证短信的国外手机号。如何获取国外手机号，请查看本文下方的详细操作步骤。
+* **一个有效的国外手机号**：由于注册Claude账号需要验证手机号，而国内的+86手机号又无法用于验证，所以你必须准备一个能够接收Claude验证短信的国外手机号。如何获取国外手机号，请查看本文下方的详细操作步骤。
 
 * **一个稳定的翻墙工具**：中国用户的Claude账号之所以经常被封，主要就是因为IP不稳定或者不纯净导致的。值得注意的是，翻墙工具需要大家自行解决，我们不推荐也不参与讨论。
 
@@ -125,33 +125,33 @@ Sms-activate是一家来自于俄罗斯的专业接码平台，支持接收Claud
 
 * Sms-activate官网：<a href="https://sms-activate.io/?ref=3917403">https://sms-activate.io/?ref=3917403</a>
 
-![Claude Pro订阅教程，获取注册Claude帐号所需的手机帐号第一步：打开Sms-activate官网，并将网站语言切换为“中文”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-1.png)
+![Claude Pro订阅教程，获取注册Claude账号所需的手机账号第一步：打开Sms-activate官网，并将网站语言切换为“中文”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-1.png)
 
 ### 第二步：点击官网右上角的“注册”按钮并完成账号注册。
 
-![Claude Pro开通教程，获取注册Claude帐号所需的手机帐号第二步：点击官网右上角的“注册”按钮并完成账号注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-2.png)
+![Claude Pro开通教程，获取注册Claude账号所需的手机账号第二步：点击官网右上角的“注册”按钮并完成账号注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-2.png)
 
 ### 第三步：点击右上角的“充值”按钮，并使用支付宝充值2美元。
 
-![Claude Pro订阅教程，获取注册Claude帐号所需的手机帐号第三步：点击右上角的“充值”按钮，并使用支付宝充值2美元](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-3.png)
+![Claude Pro订阅教程，获取注册Claude账号所需的手机账号第三步：点击右上角的“充值”按钮，并使用支付宝充值2美元](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-3.png)
 
 ### 第四步：在官网左侧的搜索框中输入“Claude”。
 
-![Claude Pro开通教程，获取注册Claude帐号所需的手机帐号第四步：在官网左侧的搜索框中输入“Claude”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-4.png)
+![Claude Pro开通教程，获取注册Claude账号所需的手机账号第四步：在官网左侧的搜索框中输入“Claude”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-4.png)
 
 ### 第五步：选择一个目标国家的手机号并按照系统提示完成购买。
 
-![Claude Pro订阅教程，获取注册Claude帐号所需的手机帐号第五步：选择一个目标国家的手机号并按照系统提示完成购买](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-5.png)
+![Claude Pro订阅教程，获取注册Claude账号所需的手机账号第五步：选择一个目标国家的手机号并按照系统提示完成购买](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-5.png)
 
 ### 第六步：点击导航栏中的“激活”选项，即可查看已购买的手机号。
 
-![Claude Pro开通教程，获取注册Claude帐号所需的手机帐号第六步：点击导航栏中的“激活”选项，即可查看已购买的手机号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-6.png)
+![Claude Pro开通教程，获取注册Claude账号所需的手机账号第六步：点击导航栏中的“激活”选项，即可查看已购买的手机号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-6.png)
 
 ### 第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。
 
 注意：当你在Claude官网上点击了“Send Verification Code”按钮后，需要返回Sms-activate平台等待验证码。
 
-![Claude Pro订阅教程，获取注册Claude帐号所需的手机帐号第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-7.png)
+![Claude Pro订阅教程，获取注册Claude账号所需的手机账号第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-7.png)
 
 最后需要提醒大家的是，如果你通过Sms-activate平台购买的国外手机号未成功接收到验证码，Sms-activate会自动退还支付金额，无需担心资金损失。此外，该平台以俄罗斯卢布计价，但中国用户充值时会按照美元结算。由于国外手机号价格非常便宜，我们建议大家每次只充值1-2美元（约合100多卢布），不要一次性充值太多。
 
@@ -183,9 +183,9 @@ Claude目前为全球用户提供三种不同类型的账号：Claude免费版�
 
 有。Claude的所有账号类型（免费版、Pro、Max、Team）都采用“按会话（session）计数”的配额机制，且配额每5小时会自动重置。用户能够发送的消息数量取决于输入长度、文件大小、对话持续时间以及所使用的模型或功能。当配额达到上限时，Claude界面会提示用户等待恢复。
 
-* Claude免费帐号：每天的使用次数有限制，会话配额每5小时自动重置。使用额度会随系统负载和消息大小而波动，适合轻度使用者或仅用于体验的用户。
+* Claude免费账号：每天的使用次数有限制，会话配额每5小时自动重置。使用额度会随系统负载和消息大小而波动，适合轻度使用者或仅用于体验的用户。
 
-* Claude Pro会员：每月20美元，提供比Claude免费帐号高出至少五倍的使用配额，并在高峰时段享有优先访问权。Claude Pro能够满足大多数用户在写作、编程和研究等场景中的需求。
+* Claude Pro会员：每月20美元，提供比Claude免费账号高出至少五倍的使用配额，并在高峰时段享有优先访问权。Claude Pro能够满足大多数用户在写作、编程和研究等场景中的需求。
 
 * Claude Max会员：在Claude Pro的基础上进一步扩展，提供五倍或二十倍的会话配额，并带来更高的输出上限和高峰期优先权，非常适合经常触顶的重度用户。
 
@@ -209,7 +209,7 @@ Claude目前为全球用户提供三种不同类型的账号：Claude免费版�
 
 * 拼车合租Claude Pro账号：价格便宜，适合轻度用户体验。
 * 购买Claude Pro原生账号：购买完即可直接使用，没有任何限制，简单方便，适合重度用户。
-* 为现有Claude账号代充值：由专业平台为你现有的Claude帐号代充值，也非常简单方便，同样适合重度用户。
+* 为现有Claude账号代充值：由专业平台为你现有的Claude账号代充值，也非常简单方便，同样适合重度用户。
 
 通过这些方式，即使你没有国外信用卡，也能顺利开通并使用Claude Pro会员，畅享完整的功能和服务，而不必再为支付问题困扰。
 
@@ -225,7 +225,7 @@ Claude目前为全球用户提供三种不同类型的账号：Claude免费版�
 
 不可以！目前Claude并不支持通过苹果礼品卡进行订阅支付。Claude的付费方式与App Store体系并不兼容，因此即使你在苹果账户中充值了礼品卡余额，也无法直接用于支付Claude Pro的订阅费用。Claude官方目前仅接受国外信用卡作为支付方式，这对中国用户而言无疑增加了开通Claude Pro会员的门槛。
 
-对于没有国外信用卡的用户，如果想要开通Claude Pro会员，可以考虑一些替代方案，例如通过专业平台为你的Claude帐号代充值、直接购买Claude Pro原生独立账号，或者选择价格更实惠的Claude Pro合租服务。这些方式不仅省去了支付上的麻烦，还能让你顺利体验Claude Pro的全部功能。
+对于没有国外信用卡的用户，如果想要开通Claude Pro会员，可以考虑一些替代方案，例如通过专业平台为你的Claude账号代充值、直接购买Claude Pro原生独立账号，或者选择价格更实惠的Claude Pro合租服务。这些方式不仅省去了支付上的麻烦，还能让你顺利体验Claude Pro的全部功能。
 
 ### Claude封号严重吗？Claude封号了怎么办？
 
@@ -237,7 +237,7 @@ Claude目前为全球用户提供三种不同类型的账号：Claude免费版�
 
 为了尽量降低封号的概率，建议用户在注册Claude账号和日常使用时保持网络环境稳定，始终使用同一个可靠的美国节点，不要频繁切换不同地区的IP。同时，应避免在多个账号之间反复登录退出，也不要在不安全的网络环境下使用Claude。
 
-## Claude Pro订阅总结：如何购买Claude Pro帐号？
+## Claude Pro订阅总结：如何购买Claude Pro账号？
 
 综合前文的介绍，中国用户想要开通Claude Pro会员，直接通过官方渠道操作的难度非常高。主要原因在于Anthropic尚未向中国用户开放服务，不仅注册Claude账号需要准备国外手机号和稳定的科学上网工具，还必须绑定国外信用卡才能完成Claude Pro订阅。因此，对于大多数国内用户来说，更现实的做法是借助专业的第三方平台来完成Claude Pro的购买和使用。目前常见的几种方式包括：
 
@@ -253,15 +253,15 @@ Claude目前为全球用户提供三种不同类型的账号：Claude免费版�
 
 小提示：银河录像局和星际放映厅除了提供Claude账号服务之外，还同时提供<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>服务，有需要的同学也可以前去了解。
 
-## 国内购买Claude Pro帐号相关的其他文章
+## 国内购买Claude Pro账号相关的其他文章
 
-* <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>：如何购买/合租/代充ChatGPT Plus会员？国内如何使用GPT-5-Codex？
-* <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立帐号？如何代充Midjourney会员？
-* <a href="https://github.com/anyofai/poe">Poe订阅</a>：如何购买Poe原生独立账号？支持GPT-5、Claude Opus/Sonnet 4、Grok-4、Gemini-2.5 Pro等大模型！
-* <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok帐号？如何代充SuperGrok会员？
+* <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>：如何购买/合租/代充ChatGPT Plus会员？如何购买Codex拼车服务？
+* <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立账号？如何代充Midjourney会员？
+* <a href="https://github.com/anyofai/poe">Poe订阅</a>：Poe会员支持GPT-5.1、Claude 4.5 Sonnet、Grok-4、Gemini-2.5 Pro等大模型！
+* <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok账号？如何代充SuperGrok会员？
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5、DeepSeek-R1、Grok-4和Gemini-2.5 Pro等大模型！每月仅需27元！
-* <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5.1、DeepSeek-R1、Grok-4和Gemini-2.5 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保，价格低至8元起！
 * <a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需15元！
