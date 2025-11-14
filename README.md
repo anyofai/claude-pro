@@ -28,11 +28,11 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 银河录像局是杭州崇宇信息科技有限公司旗下的合租平台，公司成立于2019年，至今已成功运营六年多，并且具备完善的ICP备案（浙ICP备2022036459号）和互联网经营许可证（浙B2-20230847）。多年来，银河录像局一直专注于各类流媒体（如Netflix、Disney+、HBO Max、Spotify等）和热门AI工具（包括ChatGPT Plus、Claude Pro、Midjourney、Poe、Grok等）的合租服务，拥有丰富的行业经验和良好的用户口碑。
 
-在银河录像局合租Claude Pro会员时，你无需自己注册Claude账号，也不用单独订阅Claude Pro会员，更不用为科学上网发愁，同时也无需担心Claude账号被封。银河录像局的价格也十分实惠，Claude Pro镜像试用一天卡只要8元，镜像月卡也仅需99元，让你能够轻松、低门槛地体验Claude Pro的全部功能和服务。
+在银河录像局合租Claude Pro会员时，你无需自己注册Claude账号，也不用单独订阅Claude Pro会员，更不用为科学上网发愁，同时也无需担心Claude账号被封。银河录像局的价格也十分实惠，Claude Pro镜像试用一天卡只要14元，镜像月卡也仅需130元，让你能够轻松、低门槛地体验Claude Pro的全部功能和服务。
 
-![Claude Pro订阅教程：通过银河录像局合租Claude Pro会员](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E5%90%88%E7%A7%9FClaude%20Pro%E4%BC%9A%E5%91%98-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80.png)
+![Claude Pro订阅教程：通过银河录像局合租Claude Pro会员](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Pro-%E5%90%88%E7%A7%9F-1.png)
 
-值得注意的是，银河录像局也提供ChatGPT Plus合租（27元/月）、ChatGPT Plus账号购买（171元/月）、ChatGPT Plus代充值（166元/月）等服务，大家可以根据自己的需求进行选择。关于通过银河录像局来合租Claude Pro会员的操作步骤，请参见：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>。
+值得注意的是，银河录像局也提供ChatGPT Plus合租（27元/月）、ChatGPT Plus账号购买（158元/月）、ChatGPT Plus代充值（174元/月）等服务，大家可以根据自己的需求进行选择。关于通过银河录像局来合租Claude Pro会员的操作步骤，请参见：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网<a/></p>
 
