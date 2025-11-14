@@ -46,6 +46,8 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 ![Claude Pro开通教程：通过星际放映厅购买Claude Pro账号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
+![Claude Pro开通教程：通过星际放映厅购买Claude Pro账号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro-%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-2.png)
+
 值得注意的是，星际放映厅会为你提供一个已经完成订阅升级的Claude Pro原生独立账号，你拿过来就可以直接登录使用，没有任何的限制。而且，星际放映厅还提供24小时在线客服，遇到任何问题都能及时解决。
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
