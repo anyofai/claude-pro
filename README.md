@@ -56,7 +56,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 你除了可以通过星际放映厅直接购买Claude Pro账号之外，也可以通过星际放映厅为你现有的Claude账号代充值，这样你就可以继续使用之前的Claude账号，并且保留原有账号中的所有设置，非常适合Claude Pro重度用户。同时，你可以使用Claude Pro的所有功能和服务，没有任何限制。现在使用星际放映厅优惠码“ANYOFAI”，还可以享受九折优惠！
 
-![Claude Pro订阅教程：通过星际放映厅为你现有Claude账号代充值](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
+![Claude Pro订阅教程：通过星际放映厅为你现有Claude账号代充值](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro-%E4%BB%A3%E5%85%85%E5%80%BC-3.png)
 
 值得注意的是，当按照系统提示完成付款之后，你需要主动联系星际放映厅的24小时在线客服，并提交你的Claude账号和密码，由星际放映厅技术人员帮你完成Claude代充值。更多详细信息请参考：<a href="https://github.com/anyofai/claude-pro-recharge">Claude代充值</a>。
 
@@ -64,16 +64,15 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 ## 方法四：使用Claude Code拼车服务（适合程序员）
 
-如果你也是一个码农，并且在工作中需要经常使用Claude Code的话，那么你也可以通过银河录像局购买Claude Code中转服务。该服务**无需翻墙，也没有封号风险，价格比原版更便宜**。大家在购买Claude Code中转服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，不仅能够有效节省时间和精力，还能大幅提升编程效率。银河录像局提供四种服务套餐，**每个套餐都可以使用Claude 4.5 Sonnet和Claude 4.1 Opus等大模型**。
+如果你也是一个码农，并且在工作中需要经常使用Claude Code的话，那么你也可以通过银河录像局购买Claude Code拼车服务。该服务**无需翻墙，也没有封号风险，价格比原版更便宜**。大家在购买Claude Code拼车服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，不仅能够有效节省时间和精力，还能大幅提升编程效率。银河录像局提供四种服务套餐，**每个套餐都可以使用Claude 4.5 Sonnet和Claude 4.1 Opus等大模型**。
 
-* Claude Code体验天卡：9.9元
-* Claude Code基础版：159元/月
-* Claude Code标准版：299元/月
-* Claude Code专业版：599元/月
+* Claude Code拼车Pro版：299元/月
+* Claude Code拼车Max版：599元/月
+* Claude Code拼车Ultra版：999元/月
 
-![Claude Pro开通教程：通过银河录像局来使用Claude Code服务](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Code%E9%95%9C%E5%83%8F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
+![Claude Pro开通教程：通过银河录像局来使用Claude Code服务](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Code-%E6%8B%BC%E8%BD%A6-4.png)
 
-重要提示：现在点击下面的链接进入银河录像局官网，还可以免费领取一张“Claude Code体验天卡”。这样一来，大家就能先免费试用Claude Code一天，如果觉得好用，再购买Claude Code标准版或Claude Code专业版等服务。
+小提示：更多关于通过银河录像局购买Claude Code镜像服务的详细信息，请查看《<a href="https://github.com/anyofai/claude-pro-hezu">Claude Code拼车</a>》一文。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网<a/></p>
 
