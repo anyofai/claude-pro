@@ -1,6 +1,6 @@
 # 最新Claude Pro订阅教程：如何注册Claude账号？如何订阅Claude Pro会员？如何购买Claude Pro原生独立账号？如何为你现有的Claude充值？(含Claude Code国内使用教程)
 
-<p align="center">最近更新于：2025年11月26日</p>
+<p align="center">最近更新于：2025年11月29日</p>
 
 ![最新Claude Pro订阅教程：如何注册Claude账号？如何订阅Claude Pro会员？如何购买Claude Pro原生独立账号？如何为你现有的Claude充值？(含Claude Code国内使用教程)](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
