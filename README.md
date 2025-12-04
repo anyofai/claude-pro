@@ -1,6 +1,6 @@
 # 最新Claude Pro订阅教程：如何注册Claude账号？如何订阅Claude Pro会员？如何购买Claude Pro原生独立账号？如何为你现有的Claude充值？(含Claude Code国内使用教程)
 
-<p align="center">最近更新于：2025年11月29日</p>
+<p align="center">最近更新于：2025年12月4日</p>
 
 ![最新Claude Pro订阅教程：如何注册Claude账号？如何订阅Claude Pro会员？如何购买Claude Pro原生独立账号？如何为你现有的Claude充值？(含Claude Code国内使用教程)](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
@@ -274,3 +274,5 @@ Claude目前为全球用户提供三种不同类型的账号：Claude免费版�
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro原生账号！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会推荐五个国外付费视频网站、五个国外免费视频网站和十个海外免费电影网站！
+
+免责声明：本项目内容仅供信息参考，请遵守相关法律法规及各平台使用条款，所有操作与后果由用户自行承担。
