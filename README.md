@@ -32,7 +32,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 ![Claude Pro开通教程：通过星际放映厅购买Claude Pro账号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
-星际放映厅提供的Claude Pro账号购买服务支持两种套餐，分别为1个月套餐和12个月套餐。其中，1个月套餐价格为240元/月，使用优惠码“ANYOFIA”可享九折优惠，折后价格为225元/月；**12个月套餐价格为208元/月**，使用优惠码“ANYOFIA”同样可享九折优惠，折后价格为195元/月。综合来看，我们更推荐大家直接选择12个月套餐，不仅可以省去每月续费的繁琐流程，而且整体性价比也会更高一些。
+星际放映厅提供的“Claude Pro账号购买”服务支持两种套餐，分别为1个月套餐和12个月套餐。其中，1个月套餐价格为240元/月，使用优惠码“ANYOFIA”可享九折优惠，折后价格为225元/月；**12个月套餐价格为208元/月**，使用优惠码“ANYOFIA”同样可享九折优惠，折后价格为195元/月。综合来看，我们更推荐大家直接选择12个月套餐，不仅可以省去每月续费的繁琐流程，而且整体性价比也会更高一些。
 
 ![Claude Pro开通教程：通过星际放映厅购买Claude Pro账号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro-%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-2-1.png)
 
