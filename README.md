@@ -52,7 +52,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 ## 方法三、拼车合租Claude Pro会员（适合轻度用户）
 
-很多用户可能因为无法解决科学上网的问题，或者觉得每月20美金的Claude Pro订阅费用太高，或者担心Claude账号被封等原因，想要寻找Claude Pro合租服务。而在众多的Claude Pro合租服务商中，我们最推荐的是“<a href="https://nf.video/BTgSc">银河录像局</a>”。
+很多用户可能因为无法解决科学上网的问题，或者觉得每月20美金的Claude Pro订阅费用太高，或者担心Claude账号被封等原因，想要寻找Claude Pro合租服务。而在众多的Claude Pro合租服务商中，我们最推荐的是“**<a href="https://nf.video/BTgSc">银河录像局</a>**”。
 
 银河录像局是杭州崇宇信息科技有限公司旗下的合租平台，公司成立于2019年，至今已成功运营六年多，并且具备完善的ICP备案（浙ICP备2022036459号）和互联网经营许可证（浙B2-20230847）。多年来，银河录像局一直专注于各类流媒体（如Netflix、Disney+、HBO Max、Spotify等）和热门AI工具（包括ChatGPT Plus、Claude Pro、Midjourney、Poe、Grok等）的合租服务，拥有丰富的行业经验和良好的用户口碑。
 
@@ -106,13 +106,13 @@ OK，接下来你只需按照我们的操作步骤一步一步执行，就能轻
 
 ### 第三步：输入国外手机号码并点击“Send Verification Code”。
 
-注意：本文下方会手把手地教大家如何通过“<a href="https://sms-activate.io/?ref=3917403">Sms-activate</a>”这个专业的接码平台获取一个国外手机号！当你拿到国外手机号之后，只需将其粘贴到下方的输入框中，然后点击“Send Verification Code”按钮。
+注意：本文下方会手把手地教大家如何通过“<a href="https://hero-sms.com/?ref=392863">Hero-sms</a>”这个专业的接码平台获取一个国外手机号！当你拿到国外手机号之后，只需将其粘贴到下方的输入框中，然后点击“Send Verification Code”按钮。
 
 ![Claude Pro订阅教程，注册Claude账号第三步：输入国外手机号码并点击“Send Verification Code”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-3.png)
 
 ### 第四步：获取手机验证码并点击“Verify & Create Account”。
 
-注意：这里需要先返回Sms-activate接码平台，并复制接收到的验证码。然后将验证码粘贴到下方的输入框中，点击“Verify & Create Account”按钮，即可完成手机验证。
+注意：这里需要先返回Hero-sms接码平台，并复制接收到的验证码。然后将验证码粘贴到下方的输入框中，点击“Verify & Create Account”按钮，即可完成手机验证。
 
 ![Claude Pro开通教程，注册Claude账号第四步：获取手机验证码并点击“Verify & Create Account”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-4.png)
 
@@ -120,45 +120,45 @@ OK，当你完成以上所有操作步骤后，Claude账号就注册成功了。
 
 ## 注册Claude账号时怎么验证手机号？
 
-由于注册Claude账号时必须要完成手机号码验证，而正如我们前文提到的，Claude尚未向中国用户开放，因此国内的+86手机号无法用于接收验证短信。那么，Claude手机号码该怎么解决呢？目前，最好的办法就是通过专业的接码平台获取一个国外手机号。接下来，我们将详细为大家介绍如何通过“<a href="https://sms-activate.io/?ref=3917403">Sms-activate</a>”平台获取国外手机号，并使用该号码完成Claude注册。
+由于注册Claude账号时必须要完成手机号码验证，而正如我们前文提到的，Claude尚未向中国用户开放，因此国内的+86手机号无法用于接收验证短信。那么，Claude手机号码该怎么解决呢？目前，最好的办法就是通过专业的接码平台获取一个国外手机号。接下来，我们将详细为大家介绍如何通过“<a href="https://hero-sms.com/?ref=392863">Hero-sms</a>”平台获取国外手机号，并使用该号码完成Claude注册。
 
-Sms-activate是一家来自于俄罗斯的专业接码平台，支持接收Claude、MidJourney、Telegram、TikTok、Facebook、WhatsApp等多种平台的验证码。Sms-activate平台上的国外手机号价格非常便宜，平均每个仅需几卢布或几十卢布（约合人民币2-3元），并支持支付宝付款，非常方便中国用户使用。
+Hero-sms是一家来自于俄罗斯的专业接码平台，支持接收Claude、MidJourney、Telegram、TikTok、Facebook、WhatsApp等多种平台的验证码。Hero-sms平台上的国外手机号价格非常便宜，平均每个仅需几毛钱（人民币），并支持支付宝付款，非常方便中国用户使用。
 
-### 第一步：打开Sms-activate官网，并将网站语言切换为“中文”。
+### 第一步：打开“Hero-SMS”官网，点击右上角的“Log in”完成账号注册。
 
-* Sms-activate官网：<a href="https://sms-activate.io/?ref=3917403">https://sms-activate.io/?ref=3917403</a>
+* Hero-sms官网：<a href="https://hero-sms.com/?ref=392863">https://hero-sms.com/?ref=392863</a>
 
 ![Claude Pro订阅教程，获取注册Claude账号所需的手机账号第一步：打开Sms-activate官网，并将网站语言切换为“中文”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-1.png)
 
-### 第二步：点击官网右上角的“注册”按钮并完成账号注册。
+### 第二步：点击右上角的“Top-up”按钮，选择“支付宝”或“微信”等支付方式。
 
 ![Claude Pro开通教程，获取注册Claude账号所需的手机账号第二步：点击官网右上角的“注册”按钮并完成账号注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-2.png)
 
-### 第三步：点击右上角的“充值”按钮，并使用支付宝充值2美元。
+### 第三步：填写充值金额（最低3美元），并使用支付宝扫码完成付款。
 
 ![Claude Pro订阅教程，获取注册Claude账号所需的手机账号第三步：点击右上角的“充值”按钮，并使用支付宝充值2美元](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-3.png)
 
-### 第四步：在官网左侧的搜索框中输入“Claude”。
+### 第四步：点击导航栏中的“Get a number”选项。
 
 ![Claude Pro开通教程，获取注册Claude账号所需的手机账号第四步：在官网左侧的搜索框中输入“Claude”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-4.png)
 
-### 第五步：选择一个目标国家的手机号并按照系统提示完成购买。
+### 第五步：先在左侧搜索“Claude”，再在右侧选择目标国家，然后点击“购物车”图标完成购买。
 
 ![Claude Pro订阅教程，获取注册Claude账号所需的手机账号第五步：选择一个目标国家的手机号并按照系统提示完成购买](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-5.png)
 
-### 第六步：点击导航栏中的“激活”选项，即可查看已购买的手机号。
+### 第六步：点击导航栏中的“My numbers”，即可查看刚刚购买的国外手机号码。
 
 ![Claude Pro开通教程，获取注册Claude账号所需的手机账号第六步：点击导航栏中的“激活”选项，即可查看已购买的手机号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-6.png)
 
 ### 第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。
 
-注意：当你在Claude官网上点击了“Send Verification Code”按钮后，需要返回Sms-activate平台等待验证码。
+注意：当你在Claude官网上点击了“Send Verification Code”按钮后，需要返回Hero-SMS平台等待验证码。
 
 ![Claude Pro订阅教程，获取注册Claude账号所需的手机账号第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-7.png)
 
-最后需要提醒大家的是，如果你通过Sms-activate平台购买的国外手机号未成功接收到验证码，Sms-activate会自动退还支付金额，无需担心资金损失。此外，该平台以俄罗斯卢布计价，但中国用户充值时会按照美元结算。由于国外手机号价格非常便宜，我们建议大家每次只充值1-2美元（约合100多卢布），不要一次性充值太多。
+最后需要提醒大家的是，如果你通过Hero-SMS平台购买的国外手机号未成功接收到验证码，Hero-SMS会自动退还支付金额，无需担心资金损失。此外，由于Hero-SMS平台上的国外手机号价格非常便宜，我们建议大家每次只充值3美元（最低充值金额是3美金），不要一次性充值太多。
 
-<p align="center"><a href="https://sms-activate.io/?ref=3917403">立即访问sms-activate官网</a></p>
+<p align="center"><a href="https://hero-sms.com/?ref=392863">立即访问Hero-SMS官网</a></p>
 
 ## Claude注册和Claude开通相关常见问题
 
