@@ -128,27 +128,27 @@ Hero-sms是一家来自于俄罗斯的专业接码平台，支持接收Claude、
 
 * Hero-sms官网：<a href="https://hero-sms.com/?ref=392863">https://hero-sms.com/?ref=392863</a>
 
-![Claude Pro订阅教程，获取注册Claude账号所需的手机账号第一步：打开Sms-activate官网，并将网站语言切换为“中文”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-1.png)
+![Claude Pro订阅教程，获取注册Claude账号所需的手机账号第一步：打开“Hero-SMS”官网，点击右上角的“Log in”完成账号注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-1.png)
 
 ### 第二步：点击右上角的“Top-up”按钮，选择“支付宝”或“微信”等支付方式。
 
-![Claude Pro开通教程，获取注册Claude账号所需的手机账号第二步：点击官网右上角的“注册”按钮并完成账号注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-2.png)
+![Claude Pro开通教程，获取注册Claude账号所需的手机账号第二步：点击右上角的“Top-up”按钮，选择“支付宝”或“微信”等支付方式](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-2.png)
 
 ### 第三步：填写充值金额（最低3美元），并使用支付宝扫码完成付款。
 
-![Claude Pro订阅教程，获取注册Claude账号所需的手机账号第三步：点击右上角的“充值”按钮，并使用支付宝充值2美元](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-3.png)
+![Claude Pro订阅教程，获取注册Claude账号所需的手机账号第三步：填写充值金额（最低3美元），并使用支付宝扫码完成付款](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-3.png)
 
 ### 第四步：点击导航栏中的“Get a number”选项。
 
-![Claude Pro开通教程，获取注册Claude账号所需的手机账号第四步：在官网左侧的搜索框中输入“Claude”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-4.png)
+![Claude Pro开通教程，获取注册Claude账号所需的手机账号第四步：点击导航栏中的“Get a number”选项](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-4.png)
 
 ### 第五步：先在左侧搜索“Claude”，再在右侧选择目标国家，然后点击“购物车”图标完成购买。
 
-![Claude Pro订阅教程，获取注册Claude账号所需的手机账号第五步：选择一个目标国家的手机号并按照系统提示完成购买](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-5.png)
+![Claude Pro订阅教程，获取注册Claude账号所需的手机账号第五步：先在左侧搜索“Claude”，再在右侧选择目标国家，然后点击“购物车”图标完成购买](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-5.png)
 
 ### 第六步：点击导航栏中的“My numbers”，即可查看刚刚购买的国外手机号码。
 
-![Claude Pro开通教程，获取注册Claude账号所需的手机账号第六步：点击导航栏中的“激活”选项，即可查看已购买的手机号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-6.png)
+![Claude Pro开通教程，获取注册Claude账号所需的手机账号第六步：点击导航栏中的“My numbers”，即可查看刚刚购买的国外手机号码](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-6.png)
 
 ### 第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。
 
