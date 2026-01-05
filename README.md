@@ -22,21 +22,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 接下来，本文将会详细为大家解答如何注册Claude账号、如何订阅Claude Pro会员、如何购买Claude Pro原生独立账号、如何为你现有的Claude充值，以及如何在国内使用Claude Code等，大家可以根据自己的实际需求选择最适合自己的方案。
 
-## 方法一、拼车合租Claude Pro会员（适合轻度用户）
-
-很多用户可能因为无法解决科学上网的问题，或者觉得每月20美金的Claude Pro订阅费用太高，或者担心Claude账号被封等原因，想要寻找Claude Pro合租服务。而在众多的Claude Pro合租服务商中，我们最推荐的是“<a href="https://nf.video/BTgSc">银河录像局</a>”。
-
-银河录像局是杭州崇宇信息科技有限公司旗下的合租平台，公司成立于2019年，至今已成功运营六年多，并且具备完善的ICP备案（浙ICP备2022036459号）和互联网经营许可证（浙B2-20230847）。多年来，银河录像局一直专注于各类流媒体（如Netflix、Disney+、HBO Max、Spotify等）和热门AI工具（包括ChatGPT Plus、Claude Pro、Midjourney、Poe、Grok等）的合租服务，拥有丰富的行业经验和良好的用户口碑。
-
-在银河录像局合租Claude Pro会员时，你无需自己注册Claude账号，也不用单独订阅Claude Pro会员，更不用为科学上网发愁，同时也无需担心Claude账号被封。银河录像局的价格也十分实惠，Claude Pro镜像试用一天卡只要14元，镜像月卡也仅需130元，让你能够轻松、低门槛地体验Claude Pro的全部功能和服务。
-
-![Claude Pro订阅教程：通过银河录像局合租Claude Pro会员](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Pro-%E5%90%88%E7%A7%9F-1.png)
-
-值得注意的是，银河录像局也提供ChatGPT Plus合租（27元/月）、ChatGPT Plus账号购买（158元/月）、ChatGPT Plus代充值（174元/月）等服务，大家可以根据自己的需求进行选择。关于通过银河录像局来合租Claude Pro会员的操作步骤，请参见：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>。
-
-<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网<a/></p>
-
-## 方法二、购买Claude Pro原生账号（适合重度用户）
+## 方法一、购买Claude Pro原生账号（适合重度用户）
 
 对于中国大陆用户来说，注册Claude账号其实挺麻烦的。你不仅需要准备Gmail邮箱和国外手机号，想要升级到Claude Pro会员，还得办理一张国外虚拟信用卡。也就是说，无论是注册Claude普通账号还是开通Claude Pro会员，整个流程都比较繁琐，尤其对新手来说难度更大。所以，很多人更愿意直接购买Claude Pro成品账号，这样就能省去不少麻烦。
 
@@ -52,7 +38,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
 
-## 方法三、为你现有的Claude代充值（适合重度用户）
+## 方法二、为你现有的Claude代充值（适合重度用户）
 
 你除了可以通过星际放映厅直接购买Claude Pro账号之外，也可以通过星际放映厅为你现有的Claude账号代充值，这样你就可以继续使用之前的Claude账号，并且保留原有账号中的所有设置，非常适合Claude Pro重度用户。同时，你可以使用Claude Pro的所有功能和服务，没有任何限制。现在使用星际放映厅优惠码“ANYOFAI”，还可以享受九折优惠！
 
@@ -61,6 +47,20 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 值得注意的是，当按照系统提示完成付款之后，你需要主动联系星际放映厅的24小时在线客服，并提交你的Claude账号和密码，由星际放映厅技术人员帮你完成Claude代充值。更多详细信息请参考：<a href="https://github.com/anyofai/claude-pro-recharge">Claude代充值</a>。
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
+
+## 方法三、拼车合租Claude Pro会员（适合轻度用户）
+
+很多用户可能因为无法解决科学上网的问题，或者觉得每月20美金的Claude Pro订阅费用太高，或者担心Claude账号被封等原因，想要寻找Claude Pro合租服务。而在众多的Claude Pro合租服务商中，我们最推荐的是“<a href="https://nf.video/BTgSc">银河录像局</a>”。
+
+银河录像局是杭州崇宇信息科技有限公司旗下的合租平台，公司成立于2019年，至今已成功运营六年多，并且具备完善的ICP备案（浙ICP备2022036459号）和互联网经营许可证（浙B2-20230847）。多年来，银河录像局一直专注于各类流媒体（如Netflix、Disney+、HBO Max、Spotify等）和热门AI工具（包括ChatGPT Plus、Claude Pro、Midjourney、Poe、Grok等）的合租服务，拥有丰富的行业经验和良好的用户口碑。
+
+在银河录像局合租Claude Pro会员时，你无需自己注册Claude账号，也不用单独订阅Claude Pro会员，更不用为科学上网发愁，同时也无需担心Claude账号被封。银河录像局的价格也十分实惠，Claude Pro镜像试用一天卡只要14元，镜像月卡也仅需130元，让你能够轻松、低门槛地体验Claude Pro的全部功能和服务。
+
+![Claude Pro订阅教程：通过银河录像局合租Claude Pro会员](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Pro-%E5%90%88%E7%A7%9F-1.png)
+
+值得注意的是，银河录像局也提供ChatGPT Plus合租（27元/月）、ChatGPT Plus账号购买（158元/月）、ChatGPT Plus代充值（174元/月）等服务，大家可以根据自己的需求进行选择。关于通过银河录像局来合租Claude Pro会员的操作步骤，请参见：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>。
+
+<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网<a/></p>
 
 ## 方法四：使用Claude Code拼车服务（适合程序员）
 
