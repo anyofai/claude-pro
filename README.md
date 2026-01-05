@@ -1,6 +1,6 @@
 # 最新Claude Pro订阅教程：如何注册Claude账号？如何订阅Claude Pro会员？如何购买Claude Pro原生独立账号？如何为你现有的Claude充值？(含Claude Code国内使用教程)
 
-<p align="center">最近更新于：2025年12月12日</p>
+<p align="center">最近更新于：2026年1月5日</p>
 
 ![最新Claude Pro订阅教程：如何注册Claude账号？如何订阅Claude Pro会员？如何购买Claude Pro原生独立账号？如何为你现有的Claude充值？(含Claude Code国内使用教程)](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
@@ -76,7 +76,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网<a/></p>
 
-## 2025年国内如何注册Claude账号？
+## 2026年国内如何注册Claude账号？
 
 由于Anthropic并未向中国大陆用户正式开放服务，所以如果你想要注册Claude账号，就没办法像注册国内应用那样轻松。大家在注册Claude账号之前，需要准备好几样必备的东西，包括Gmail邮箱、国外手机号和翻墙工具，每一样都至关重要。
 
@@ -273,6 +273,6 @@ Claude目前为全球用户提供三种不同类型的账号：Claude免费版�
 * <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：推荐最稳定可靠的ChatGPT Plus代充值平台，价格优惠，信誉有保障。
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro原生账号！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
-* <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2025年国外最受欢迎的视频网站！
+* <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2026年国外最受欢迎的视频网站！
 
 免责声明：本项目内容仅供信息参考，请遵守相关法律法规及各平台使用条款，所有操作与后果由用户自行承担。
