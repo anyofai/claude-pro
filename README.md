@@ -26,15 +26,17 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 对于中国大陆用户来说，注册Claude账号其实挺麻烦的。你不仅需要准备Gmail邮箱和国外手机号，想要升级到Claude Pro会员，还得办理一张国外虚拟信用卡。也就是说，无论是注册Claude普通账号还是开通Claude Pro会员，整个流程都比较繁琐，尤其对新手来说难度更大。所以，很多人更愿意直接购买Claude Pro成品账号，这样就能省去不少麻烦。
 
-现在市面上虽然有不少提供Claude Pro成品账号的商家，但大多数都是个人或小团队在经营，不仅价格偏高，而且Claude账号的稳定性也难以保证，有些甚至收了钱却不发账号。正因如此，购买Claude Pro成品账号时，最好还是选择那些更安全、更靠谱的大平台，比如“<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>”。
+现在市面上虽然有不少提供Claude Pro成品账号的商家，但大多数都是个人或小团队在经营，不仅价格偏高，而且Claude账号的稳定性也难以保证，有些甚至收了钱却不发账号。正因如此，购买Claude Pro成品账号时，最好还是选择那些更安全、更靠谱的大平台，比如“**<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>**”。
 
 星际放映厅是一家位于杭州的专业流媒体和AI工具合租平台，主打“现号秒发、安全稳定、价格实惠”。平台已经在相关部门完成备案（备案号：浙ICP备2023017856号），用户不用担心遇到收钱不办事或者卷款跑路的情况，安全性和稳定性都有保障。
 
 ![Claude Pro开通教程：通过星际放映厅购买Claude Pro账号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E8%B4%AD%E4%B9%B0Claude%20Pro%E5%B8%90%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
-![Claude Pro开通教程：通过星际放映厅购买Claude Pro账号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro-%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-2.png)
+星际放映厅提供的Claude Pro账号购买服务支持两种套餐，分别为1个月套餐和12个月套餐。其中，1个月套餐价格为240元/月，使用优惠码“ANYOFIA”可享九折优惠，折后价格为225元/月；12个月套餐价格为208元/月，使用优惠码“ANYOFIA”同样可享九折优惠，折后价格为195元/月。综合来看，我们更推荐大家直接选择12个月套餐，不仅可以省去每月续费的繁琐流程，而且整体性价比也会更高一些。
 
-值得注意的是，星际放映厅会为你提供一个已经完成订阅升级的Claude Pro原生独立账号，你拿过来就可以直接登录使用，没有任何的限制。而且，星际放映厅还提供24小时在线客服，遇到任何问题都能及时解决。
+![Claude Pro开通教程：通过星际放映厅购买Claude Pro账号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro-%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-2-1.png)
+
+值得注意的是，当按照系统提示完成付款后，星际放映厅会直接为你提供一个已完成订阅升级的Claude Pro原生独立账号，你拿到账号后即可直接登录使用，没有任何限制。同时，星际放映厅提供24小时在线客服支持，使用过程中如遇到任何问题，均可及时处理。此外，无论选择哪种套餐，星际放映厅均支持开具正规发票，适合企业采购或有开票需求的用户。
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
 
