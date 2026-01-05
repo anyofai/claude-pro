@@ -44,7 +44,7 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 你除了可以通过星际放映厅直接购买Claude Pro账号之外，也可以通过星际放映厅为你现有的Claude账号代充值，这样你就可以继续使用之前的Claude账号，并且保留原有账号中的所有设置，非常适合Claude Pro重度用户。同时，你可以使用Claude Pro的所有功能和服务，没有任何限制。现在使用星际放映厅优惠码“ANYOFAI”，还可以享受九折优惠！
 
-![Claude Pro订阅教程：通过星际放映厅为你现有Claude账号代充值](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro-%E4%BB%A3%E5%85%85%E5%80%BC-3.png)
+![Claude Pro订阅教程：通过星际放映厅为你现有Claude账号代充值](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro-%E4%BB%A3%E5%85%85%E5%80%BC-3-1.png)
 
 值得注意的是，当按照系统提示完成付款之后，你需要主动联系星际放映厅的24小时在线客服，并提交你的Claude账号和密码，由星际放映厅技术人员帮你完成Claude代充值。更多详细信息请参考：<a href="https://github.com/anyofai/claude-pro-recharge">Claude代充值</a>。
 
