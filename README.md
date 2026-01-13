@@ -1,6 +1,6 @@
 # 最新Claude Pro订阅教程：如何注册Claude账号？如何订阅Claude Pro会员？如何购买Claude Pro原生独立账号？如何为你现有的Claude充值？(含Claude Code国内使用教程)
 
-<p align="center">最近更新于：2026年1月5日</p>
+<p align="center">最近更新于：2026年1月13日</p>
 
 ![最新Claude Pro订阅教程：如何注册Claude账号？如何订阅Claude Pro会员？如何购买Claude Pro原生独立账号？如何为你现有的Claude充值？(含Claude Code国内使用教程)](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude-Pro%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
@@ -36,13 +36,15 @@ Claude是目前全球最强大的AI对话模型之一，尤其是最新推出的
 
 ![Claude Pro开通教程：通过星际放映厅购买Claude Pro账号](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro-%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-2-1.png)
 
-值得注意的是，当按照系统提示完成付款后，星际放映厅会直接为你提供一个已完成订阅升级的Claude Pro原生独立账号，你拿到账号后即可直接登录使用，没有任何限制。同时，星际放映厅提供24小时在线客服支持，使用过程中如遇到任何问题，均可及时处理。此外，无论你最终选择哪种套餐，星际放映厅均提供**全程质保（即包售后）**，并**支持开具正规发票**，适合企业采购或有开票需求的用户。
+值得注意的是，当按照系统提示完成付款后，星际放映厅会直接为你提供一个已完成订阅升级的Claude Pro原生独立账号，你拿到账号后即可直接登录使用，没有任何限制。同时，星际放映厅提供24小时在线客服支持，使用过程中如遇到任何问题，均可及时处理。此外，无论你最终选择哪种套餐，星际放映厅均**提供全程质保（即包售后）**，并**支持开具正规发票**，适合企业采购或有开票需求的用户。
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
 
 ## 方法二、为你现有的Claude代充值（适合重度用户）
 
-你除了可以通过星际放映厅直接购买Claude Pro账号之外，也可以通过星际放映厅为你现有的Claude账号代充值，这样你就可以继续使用之前的Claude账号，并且保留原有账号中的所有设置，非常适合Claude Pro重度用户。同时，你可以使用Claude Pro的所有功能和服务，没有任何限制。现在使用星际放映厅优惠码“ANYOFAI”，还可以享受九折优惠！
+你除了可以通过星际放映厅直接购买Claude Pro账号之外，也可以通过星际放映厅为你现有的Claude账号进行代充值。这样你就可以继续使用原有的Claude账号，并完整保留账号中的所有设置，非常适合Claude Pro的重度用户。同时，你也可以正常使用Claude Pro的所有功能和服务，不会受到任何限制。
+
+星际放映厅的Claude Pro代充值服务目前仅支持按月充值，原价为230元/月。现在使用星际放映厅优惠码“ANYOFAI”还可享受九折优惠，**折后每月仅需216元**。
 
 ![Claude Pro订阅教程：通过星际放映厅为你现有Claude账号代充值](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro-%E4%BB%A3%E5%85%85%E5%80%BC-3-1.png)
 
