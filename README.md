@@ -108,17 +108,17 @@ OK，当你准备好以上几样东西之后，接下来就可以按照下面的
 
 ### 第三步：输入国外手机号码并点击“Send Verification Code”。
 
-注意：本文下方会手把手地教大家如何通过“<a href="https://hero-sms.com/?ref=392863">Hero-sms</a>”这个专业的接码平台获取一个国外手机号！当你拿到国外手机号之后，只需将其粘贴到下方的输入框中，然后点击“Send Verification Code”按钮。
+注意：本文下方会手把手教大家如何通过“<a href="https://sms-man.com/cn?ref=anyofai">SMS-Man</a>”这一专业的接码平台获取国外虚拟手机号码。当你获取到国外虚拟手机号码后，只需将其粘贴到下方的输入框中，然后点击“Send Verification Code”按钮即可。
 
 ![Claude Pro订阅教程，注册Claude账号第三步：输入国外手机号码并点击“Send Verification Code”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-3.png)
 
 ### 第四步：获取手机验证码并点击“Verify & Create Account”。
 
-注意：这里需要先返回Hero-sms接码平台，并复制接收到的验证码。然后将验证码粘贴到下方的输入框中，点击“Verify & Create Account”按钮，即可完成手机验证。
+注意：这里需要先返回SMS-Man接码平台，并复制接收到的验证码。然后将验证码粘贴到下方的输入框中，点击“Verify & Create Account”按钮，即可完成手机验证。
 
 ![Claude Pro开通教程，注册Claude账号第四步：获取手机验证码并点击“Verify & Create Account”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-4.png)
 
-OK，当你完成以上所有操作步骤后，Claude账号就注册成功了。接下来，你可以正式开始体验Claude提供的各项强大功能。如果你希望解锁更多高级功能，可以通过<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>为Claude账号代充值，从而畅享Claude Pro会员的全部功能和服务。
+OK，当完成以上所有操作步骤后，你的Claude账号就注册成功了，接下来即可正式开始体验Claude提供的各项功能。不过，由于Claude基础账号在功能和使用额度上存在一定限制，如果你希望解锁更多高级功能，则需要订阅Claude Pro会员。我们推荐大家通过星际放映厅为Claude账号代充值！因为星际放映厅不仅安全可靠，而且订阅Claude Pro的成功率高，同时还提供全程质保，使用过程更有保障，大家可以放心选择。
 
 ## 注册Claude账号时怎么验证手机号？
 
