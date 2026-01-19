@@ -118,7 +118,7 @@ OK，当你准备好以上几样东西之后，接下来就可以按照下面的
 
 ![Claude Pro开通教程，注册Claude账号第四步：获取手机验证码并点击“Verify & Create Account”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-4.png)
 
-OK，当完成以上所有操作步骤后，你的Claude账号就注册成功了，接下来即可正式开始体验Claude提供的各项功能。不过，由于Claude基础账号在功能和使用额度上存在一定限制，如果你希望解锁更多高级功能，则需要订阅Claude Pro会员。我们推荐大家通过**<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>**为Claude账号代充值！因为星际放映厅不仅安全可靠，而且订阅Claude Pro的成功率高，同时还提供全程质保，使用过程更有保障，大家可以放心选择。
+OK，当完成以上所有操作步骤后，你的Claude账号就注册成功了，接下来即可正式开始体验Claude提供的各项功能。不过，由于Claude基础账号在功能和使用额度上存在一定限制，如果你希望解锁更多高级功能，则需要订阅Claude Pro会员。我们推荐大家通过“**<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>**”为Claude账号代充值！因为星际放映厅不仅安全可靠，而且订阅Claude Pro的成功率高，同时还提供全程质保，使用过程更有保障，大家可以放心选择。
 
 ## 如何获取用于接收Claude验证码的国外虚拟手机号码？
 
