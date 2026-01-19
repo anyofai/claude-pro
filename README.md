@@ -1,4 +1,4 @@
-# 2026年最新Claude充值订阅攻略，包括Claude注册、Claude账号购买、Claude拼车合租、Claude Pro代充、Claude Code国内使用教程！
+# <p align="center">2026年最新Claude充值订阅攻略，包括Claude注册、Claude账号购买、Claude拼车合租、Claude Pro代充、Claude Code国内使用教程！</p>
 
 <p align="center">最近更新于：2026年1月19日</p>
 
