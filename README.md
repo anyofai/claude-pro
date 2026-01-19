@@ -94,7 +94,7 @@ OK，当你准备好以上几样东西之后，接下来就可以按照下面的
 
 ### 第一步：打开Claude官网，输入你的Gmail邮箱并点击“Continue with email”。
 
-* Claude官网地址：claude.ai
+* Claude AI官网地址：claude.ai
 
 注意：你也可以使用现有的Google账号授权登录，直接点击“Continue with Google”即可。
 
