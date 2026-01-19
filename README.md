@@ -152,7 +152,7 @@ SMS-Man是一家来自英国的专业接码平台，主要提供来自全球各�
 
 注意：当你在Claude官网上点击了“Send Verification Code”按钮后，需要返回SMS-Man平台等待验证码。
 
-![Claude Pro订阅教程，获取注册Claude账号所需的手机账号第五步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-5.png)
+![Claude Pro订阅教程，获取注册Claude账号所需的手机账号第五步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-7.png)
 
 最后需要提醒大家的是，如果你通过SMS-Man平台购买的国外虚拟手机号码未能成功接收到验证码，SMS-Man会自动退还此前支付的资金，因此无需担心资金损失。此外，由于SMS-Man平台上的国外虚拟手机号码价格非常便宜，我们建议大家每次只充值10美元（最低充值金额为10美元），不要一次性充值过多。
 
