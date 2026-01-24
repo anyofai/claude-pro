@@ -108,13 +108,13 @@ OK，当你准备好以上几样东西之后，接下来就可以按照下面的
 
 ### 第三步：输入国外手机号码并点击“Send Verification Code”。
 
-注意：本文下方会手把手教大家如何通过“<a href="https://sms-man.com/cn?ref=anyofai">SMS-Man</a>”这一专业的接码平台获取国外虚拟手机号码。当你获取到国外虚拟手机号码后，只需将其粘贴到下方的输入框中，然后点击“Send Verification Code”按钮即可。
+注意：本文下方会手把手教大家如何通过“<a href="https://hero-sms.com/?ref=392863">Hero-SMS</a>”这一专业的接码平台获取国外虚拟手机号码。当你获取到国外虚拟手机号码后，只需将其粘贴到下方的输入框中，然后点击“Send Verification Code”按钮即可。
 
 ![Claude注册教程，注册Claude账号第三步：输入国外手机号码并点击“Send Verification Code”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-3.png)
 
 ### 第四步：获取手机验证码并点击“Verify & Create Account”。
 
-注意：这里需要先返回SMS-Man接码平台，并复制接收到的验证码。然后将验证码粘贴到下方的输入框中，点击“Verify & Create Account”按钮，即可完成手机验证。
+注意：这里需要先返回Hero-SMS接码平台，并复制接收到的验证码。然后将验证码粘贴到下方的输入框中，点击“Verify & Create Account”按钮，即可完成手机验证。
 
 ![Claude注册教程，注册Claude账号第四步：获取手机验证码并点击“Verify & Create Account”](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E5%B8%90%E5%8F%B7%E6%AD%A5%E9%AA%A4-4.png)
 
@@ -122,41 +122,45 @@ OK，当完成以上所有操作步骤后，你的Claude账号就注册成功了
 
 ## 如何获取用于接收Claude验证码的国外虚拟手机号码？
 
-由于注册Claude账号时必须完成手机号码验证，而Claude目前尚未向中国用户开放，因此国内的+86手机号无法用于接收验证码短信。针对这一限制，目前最可行的解决方式是通过专业的接码平台获取一个国外虚拟手机号码。接下来，我们将以“**<a href="https://sms-man.com/cn?ref=anyofai">SMS-Man</a>**”为例，详细为大家介绍如何获取国外虚拟手机号码，并使用该号码来完成Claude验证码的接收。
+由于注册Claude账号时必须完成手机号码验证，而Claude目前尚未向中国用户开放，因此国内的+86手机号无法用于接收验证码短信。针对这一限制，目前最可行的解决方式是通过专业的接码平台获取一个国外虚拟手机号码。接下来，我们将以“**<a href="https://sms-man.com/cn?ref=anyofai">Hero-SMS</a>**”为例，详细为大家介绍如何获取国外虚拟手机号码，并使用该号码来完成Claude验证码的接收。
 
-SMS-Man是一家来自英国的专业接码平台，主要提供来自全球各个国家的虚拟手机号码，用于接收各类平台注册过程中所需的验证码短信。目前，SMS-Man支持接收Claude、Telegram、TikTok、Instagram、WhatsApp、Facebook、Twitter、VK等多种平台的验证码。此外，SMS-Man提供的国外虚拟手机号码价格非常便宜，单个号码通常只需几元人民币，同时支持支付宝付款，对中国用户来说使用门槛较低，操作也比较方便。
+Hero-SMS是一家来自俄罗斯的专业接码平台，主要提供来自全球各个国家的虚拟手机号码，用于接收各类平台注册过程中所需的验证码短信。目前，Hero-SMS支持接收Claude、Telegram、TikTok、Instagram、WhatsApp、Facebook、Twitter、VK等多种平台的验证码。此外，Hero-SMS提供的国外虚拟手机号码价格非常便宜，单个号码通常只需几毛钱人民币，同时支持支付宝付款，对中国用户来说使用门槛较低，操作也比较方便。
 
-### 第一步：访问Sms-man官网，点击右上角的“注册”按钮，使用邮箱完成账号注册。
+### 第一步：打开“Hero-SMS”官网，点击右上角的“Log in”完成账号注册。
 
-* Sms-man官网：<a href="https://sms-man.com/cn?ref=anyofai">https://sms-man.com/cn?ref=anyofai</a>
+* Hero-sms官网：<a href="https://hero-sms.com/?ref=392863">https://hero-sms.com/?ref=392863</a>
 
-![获取用于接收Claude验证码的国外虚拟手机号码第一步：访问Sms-man官网，点击右上角的“注册”按钮，使用邮箱完成账号注册。](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%E6%B3%A8%E5%86%8C-1.png)
+![获取用于接收Claude验证码的国外虚拟手机号码第一步：打开“Hero-SMS”官网，点击右上角的“Log in”完成账号注册](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-1.png)
 
-### 第二步：当你登录成功后，点击右上角的“充值”按钮，并选择通过“支付宝”进行充值。
+### 第二步：点击右上角的“Top-up”按钮，选择“支付宝”或“微信”等支付方式。
 
-![获取用于接收Claude验证码的国外虚拟手机号码第二步：当你登录成功后，点击右上角的“充值”按钮，并选择通过“支付宝”进行充值。](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%E6%B3%A8%E5%86%8C-2.png)
+![获取用于接收Claude验证码的国外虚拟手机号码第二步：点击右上角的“Top-up”按钮，选择“支付宝”或“微信”等支付方式](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-2.png)
 
-### 第三步：点击你需要充值的金额（例如￥70元人民币），根据系统提示完成支付后即可得到一组卡密，将其填写到“输入卡密”框中完成充值。
+### 第三步：填写充值金额（最低3美元），并使用支付宝扫码完成付款。
 
-注意：Sms-man的最低充值金额为10美元（约合￥70元人民币）。
+![获取用于接收Claude验证码的国外虚拟手机号码第三步：填写充值金额（最低3美元），并使用支付宝扫码完成付款](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-3.png)
 
-![获取用于接收Claude验证码的国外虚拟手机号码第三步：点击你需要充值的金额（例如￥70元人民币），根据系统提示完成支付后即可得到一组卡密，将其填写到“输入卡密”框中完成充值。](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%E6%B3%A8%E5%86%8C-3.png)
+### 第四步：点击导航栏中的“Get a number”选项。
 
-### 第四步：点击左侧导航栏中的“接收短信”，在右侧搜索“Claude”，选择目标国家后，点击“购买短信”按钮。
+![获取用于接收Claude验证码的国外虚拟手机号码第四步：点击导航栏中的“Get a number”选项](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-4.png)
 
-注意：当完成购买后，平台会为你提供一个对应国家的可用手机号码，用于接收注册Claude账号所需的验证码短信。
+### 第五步：先在左侧搜索“Claude”，再在右侧选择目标国家，然后点击“购物车”图标完成购买。
 
-![获取用于接收Claude验证码的国外虚拟手机号码第四步：点击左侧导航栏中的“接收短信”，在右侧搜索“Claude”，选择目标国家后，点击“购买短信”按钮。](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/Claude%E6%B3%A8%E5%86%8C-4.png)
+![获取用于接收Claude验证码的国外虚拟手机号码第五步：先在左侧搜索“Claude”，再在右侧选择目标国家，然后点击“购物车”图标完成购买](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-5.png)
 
-### 第五步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。
+### 第六步：点击导航栏中的“My numbers”，即可查看刚刚购买的国外手机号码。
+
+![获取用于接收Claude验证码的国外虚拟手机号码第六步：点击导航栏中的“My numbers”，即可查看刚刚购买的国外手机号码](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7-6.png)
+
+### 第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。
 
 注意：当你在Claude官网上点击了“Send Verification Code”按钮后，需要返回SMS-Man平台等待验证码。
 
-![获取用于接收Claude验证码的国外虚拟手机号码第五步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-7.png)
+![获取用于接收Claude验证码的国外虚拟手机号码第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-7.png)
 
-最后需要提醒大家的是，如果你通过SMS-Man平台购买的国外虚拟手机号码未能成功接收到验证码，SMS-Man会自动退还此前支付的资金，因此无需担心资金损失。此外，由于SMS-Man平台上的国外虚拟手机号码价格非常便宜，我们建议大家每次只充值10美元（最低充值金额为10美元），不要一次性充值过多。
+最后需要提醒大家的是，如果你通过Hero-SMS平台购买的国外虚拟手机号码未能成功接收到验证码，Hero-SMS会自动退还此前支付的资金，因此无需担心资金损失。此外，由于Hero-SMS平台上的国外虚拟手机号码价格非常便宜，我们建议大家每次只充值3美元（最低充值金额为3美元），不要一次性充值过多。
 
-<p align="center"><a href="https://sms-man.com/cn?ref=anyofai">立即访问Sms-man官网</a></p>
+<p align="center"><a href="https://hero-sms.com/?ref=392863">立即访问Hero-SMS官网</a></p>
 
 ## Claude注册和Claude充值相关常见问题
 
