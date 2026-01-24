@@ -154,7 +154,7 @@ Hero-SMS是一家来自俄罗斯的专业接码平台，主要提供来自全球
 
 ### 第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。
 
-注意：当你在Claude官网上点击了“Send Verification Code”按钮后，需要返回SMS-Man平台等待验证码。
+注意：当你在Claude官网上点击了“Send Verification Code”按钮后，需要返回Hero-SMS平台等待验证码。
 
 ![获取用于接收Claude验证码的国外虚拟手机号码第七步：返回Claude官网，使用该手机号接收验证码，即可完成Claude注册。](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%B3%A8%E5%86%8CClaude%E8%B4%A6%E5%8F%B7%E6%97%B6%E6%89%8B%E6%9C%BA%E5%8F%B7%E9%AA%8C%E8%AF%81%E6%95%99%E7%A8%8B-7.png)
 
